@@ -1,1 +1,13 @@
+You will be given a document describing several employees at a company.
+
+Your task is to extract information about the employee named ___.
+
+Return your answer strictly in JSON format with the following keys:
+- job_title
+- department
+- years_at_company
+- weekly_hours
+
+Document:
+{{DOCUMENT}}
 
