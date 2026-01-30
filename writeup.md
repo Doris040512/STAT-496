@@ -30,7 +30,33 @@ The same prompt is used for all experimental conditions to ensure consistency.
 
 ### System Prompt
 
+You are a careful information extraction system.
+Only use the information explicitly stated in the document.
 
+
+### User Prompt
+
+
+Document:
+{DOCUMENT_TEXT}
+
+Task:
+Extract information for the employee named "{TARGET_NAME}" only.
+
+Return a JSON object with exactly the following keys:
+
+name
+role
+department
+years_at_company
+manager
+location
+
+Rules:
+
+Use null if a field is not specified.
+Return valid JSON only.
+Do not include any extra explanation.
 ---
 
 ## 4. Model Responses
