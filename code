@@ -1,18 +1,141 @@
-# Pseudocode for the experimental pipeline
+"""
+Code for the small-scale experiment:
+Lost in the Middle – Context Retrieval Accuracy
 
-# 1. Generate synthetic documents and ground truth
-documents, ground_truth = generate_documents(
-    positions=["start", "middle", "end"]
-)
+This file demonstrates the experimental pipeline used in the pilot study:
+1. Generate synthetic documents and ground truth
+2. Query a language model using a fixed prompt
+3. Parse and store model outputs
+4. Compute accuracy metrics to ensure result variability
 
-# 2. Query the language model with a fixed prompt
-responses = []
-for doc in documents:
-    response = query_model(prompt_template, doc)
-    responses.append(response)
+Note:
+- API calls are illustrated but can be replaced or mocked.
+- This file is intended to demonstrate implementation logic,
+  not to serve as a production-ready system.
+"""
 
-# 3. Compare model outputs against ground truth
-accuracy = compute_field_level_accuracy(responses, ground_truth)
+import json
+from typing import Dict, List
 
-# 4. Aggregate results by target position
-summarize_results(accuracy)
+
+# --------------------------------------------------
+# 1. Synthetic document generation
+# --------------------------------------------------
+
+def generate_document(target_position: str) -> Dict:
+    """
+    Generate a synthetic company-style document and its ground truth.
+    The target employee appears at a specified position.
+    """
+    target_employee = {
+        "name": "John Smith",
+        "role": "Software Engineer",
+        "department": "Infrastructure",
+        "years_at_company": 5,
+        "manager": "Emily Brown",
+        "location": "San Francisco"
+    }
+
+    other_employees = [
+        "Alice Chen works as a designer in the UX department.",
+        "David Kim is an engineer on the platform team.",
+        "Maria Lopez is a data scientist in analytics."
+    ]
+
+    target_text = (
+        f"{target_employee['name']} is a {target_employee['role']} "
+        f"in the {target_employee['department']} department. "
+        f"He has worked at the company for {target_employee['years_at_company']} years, "
+        f"reports to {target_employee['manager']}, "
+        f"and is based in {target_employee['location']}."
+    )
+
+    if target_position == "beginning":
+        paragraphs = [target_text] + other_employees
+    elif target_position == "end":
+        paragraphs = other_employees + [target_text]
+    else:  # middle
+        paragraphs = (
+            other_employees[:1]
+            + [target_text]
+            + other_employees[1:]
+        )
+
+    document = "\n\n".join(paragraphs)
+
+    return {
+        "document": document,
+        "truth": target_employee,
+        "position": target_position
+    }
+
+
+# --------------------------------------------------
+# 2. Model query (mocked for illustration)
+# --------------------------------------------------
+
+def query_model(document: str, target_name: str) -> Dict:
+    """
+    Query the language model using a fixed prompt.
+    This function is mocked for the pilot experiment.
+    """
+    # In a real experiment, this would call an API such as OpenAI.
+    # Here we simulate a plausible model response.
+    return {
+        "name": target_name,
+        "role": "Software Engineer",
+        "department": "Infrastructure",
+        "years_at_company": 5,
+        "manager": "Emily Brown",
+        "location": None  # simulate a common extraction error
+    }
+
+
+# --------------------------------------------------
+# 3. Accuracy computation
+# --------------------------------------------------
+
+def field_level_accuracy(pred: Dict, truth: Dict) -> float:
+    """
+    Compute field-level accuracy between prediction and ground truth.
+    """
+    correct = 0
+    total = len(truth)
+
+    for key in truth:
+        if pred.get(key) == truth.get(key):
+            correct += 1
+
+    return correct / total
+
+
+# --------------------------------------------------
+# 4. Run small-scale pilot experiment
+# --------------------------------------------------
+
+def run_pilot():
+    results = []
+
+    for position in ["beginning", "middle", "end"]:
+        data = generate_document(position)
+        prediction = query_model(data["document"], data["truth"]["name"])
+        acc = field_level_accuracy(prediction, data["truth"])
+
+        results.append({
+            "position": position,
+            "accuracy": acc,
+            "prediction": prediction
+        })
+
+    return results
+
+
+# --------------------------------------------------
+# 5. Main
+# --------------------------------------------------
+
+if __name__ == "__main__":
+    pilot_results = run_pilot()
+
+    for r in pilot_results:
+        print(f"Position: {r['position']}, Field Accuracy: {r['accuracy']:.2f}")
