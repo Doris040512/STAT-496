@@ -1,6 +1,21 @@
+Data Description
+
 All documents used in this experiment are synthetically generated company-style texts.
 
-Each document describes multiple fictional employees at a company. One employee is designated as the target entity, and their information is placed either at the beginning, middle, or end of the document.
+Each document describes multiple fictional employees at a company. Exactly one employee in each document is designated as the target entity.
+The target employee’s information is placed at a controlled position within the document: the beginning, the middle, or the end.
 
-Document structure and tone are loosely inspired by public company documentation patterns to improve realism, but no real individuals or proprietary information are used.
+Employee attributes include:
+- name
+- role
+- department
+- years_at_company
+- manager
+- location
 
+These attributes are generated programmatically at document creation time. Ground truth values are stored separately and used to evaluate
+model retrieval accuracy.
+
+Document structure and writing style are loosely inspired by real-world company documentation patterns in order to improve realism. 
+Publicly available company document datasets (e.g., Kaggle datasets) are used only as conceptual scaffolding for style and structure. 
+No real individuals, proprietary data, or personally identifiable information are included.
