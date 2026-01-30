@@ -1,1 +1,11 @@
+Ground truth for each document is stored as a JSON object with the following fields:
+
+- name
+- role
+- department
+- years_at_company
+- manager
+- location
+
+These values are generated at the same time as the document text and are used to evaluate model retrieval accuracy.
 
