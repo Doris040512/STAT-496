@@ -1,8 +1,18 @@
-The code for this project consists of three main components:
+# Pseudocode for the experimental pipeline
 
-1. A document generation script that creates synthetic company-style texts and corresponding ground truth.
-2. A prompt execution script that sends documents to a language model and saves the responses.
-3. An analysis script that compares model outputs against ground truth and computes accuracy metrics.
+# 1. Generate synthetic documents and ground truth
+documents, ground_truth = generate_documents(
+    positions=["start", "middle", "end"]
+)
 
-All components are designed to be modular and scalable for future large-scale experiments.
+# 2. Query the language model with a fixed prompt
+responses = []
+for doc in documents:
+    response = query_model(prompt_template, doc)
+    responses.append(response)
 
+# 3. Compare model outputs against ground truth
+accuracy = compute_field_level_accuracy(responses, ground_truth)
+
+# 4. Aggregate results by target position
+summarize_results(accuracy)
