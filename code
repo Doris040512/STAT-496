@@ -1,1 +1,8 @@
+The code for this project consists of three main components:
+
+1. A document generation script that creates synthetic company-style texts and corresponding ground truth.
+2. A prompt execution script that sends documents to a language model and saves the responses.
+3. An analysis script that compares model outputs against ground truth and computes accuracy metrics.
+
+All components are designed to be modular and scalable for future large-scale experiments.
 
