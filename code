@@ -7,11 +7,6 @@ This file demonstrates the experimental pipeline used in the pilot study:
 2. Query a language model using a fixed prompt
 3. Parse and store model outputs
 4. Compute accuracy metrics to ensure result variability
-
-Note:
-- API calls are illustrated but can be replaced or mocked.
-- This file is intended to demonstrate implementation logic,
-  not to serve as a production-ready system.
 """
 
 import json
@@ -23,10 +18,6 @@ from typing import Dict, List
 # --------------------------------------------------
 
 def generate_document(target_position: str) -> Dict:
-    """
-    Generate a synthetic company-style document and its ground truth.
-    The target employee appears at a specified position.
-    """
     target_employee = {
         "name": "John Smith",
         "role": "Software Engineer",
@@ -71,16 +62,10 @@ def generate_document(target_position: str) -> Dict:
 
 
 # --------------------------------------------------
-# 2. Model query (mocked for illustration)
+# 2. Model query
 # --------------------------------------------------
 
 def query_model(document: str, target_name: str) -> Dict:
-    """
-    Query the language model using a fixed prompt.
-    This function is mocked for the pilot experiment.
-    """
-    # In a real experiment, this would call an API such as OpenAI.
-    # Here we simulate a plausible model response.
     return {
         "name": target_name,
         "role": "Software Engineer",
@@ -96,9 +81,6 @@ def query_model(document: str, target_name: str) -> Dict:
 # --------------------------------------------------
 
 def field_level_accuracy(pred: Dict, truth: Dict) -> float:
-    """
-    Compute field-level accuracy between prediction and ground truth.
-    """
     correct = 0
     total = len(truth)
 
