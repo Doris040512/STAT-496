@@ -1,6 +1,25 @@
-This file contains model outputs from the pilot experiment.
+Model Outputs Description
 
-Each output is a JSON object produced by the language model in response to the extraction prompt. Outputs are compared against ground truth to compute field-level and document-level accuracy.
+This file documents the outputs produced by the language model during the small-scale pilot experiment.
 
-Observed errors primarily involve missing or incorrect fields, particularly when the target information appears in the middle of the document.
+For each synthetic document, the model is prompted to extract structured information about a target employee and return the result in JSON 
+format. Each output corresponds to a single document and contains the following fields:
 
+- name
+- role
+- department
+- years_at_company
+- manager
+- location
+
+All pilot outputs were syntactically valid JSON. However, the factual correctness of the extracted information varied across documents.
+
+Observed error patterns include:
+- Missing fields (e.g., fields returned as null despite being present in the document)
+- Incorrect attribution of information from nearby distractor employees
+- Partial extraction when information is distributed across multiple sentences
+
+These errors occurred more frequently when the target employee’s information appeared in the middle of the document, compared to the 
+beginning or the end.
+
+Raw model outputs are saved to enable reproducibility, manual inspection, and automated comparison against ground truth during analysis.
