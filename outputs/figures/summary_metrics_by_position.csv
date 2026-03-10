@@ -1,0 +1,4 @@
+position,exact_match_accuracy,json_validity,job_title_accuracy,department_accuracy,years_at_company_accuracy,weekly_hours_accuracy
+begin,1.0,1.0,1.0,1.0,1.0,1.0
+middle,0.97,1.0,1.0,0.97,1.0,1.0
+end,1.0,1.0,1.0,1.0,1.0,1.0
