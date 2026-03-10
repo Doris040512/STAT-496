@@ -1,0 +1,301 @@
+doc_id,position,json_valid,truth_job_title,truth_department,truth_years_at_company,truth_weekly_hours,pred_job_title,pred_department,pred_years_at_company,pred_weekly_hours,acc_job_title,acc_department,acc_years_at_company,acc_weekly_hours,acc_all
+about_us_begin_001,begin,1,Data Scientist,Operations,3,35,Data Scientist,Operations,3,35,1,1,1,1,1
+about_us_begin_002,begin,1,Analytics Engineer,Engineering,3,40,Analytics Engineer,Engineering,3,40,1,1,1,1,1
+about_us_begin_003,begin,1,Data Analyst,Operations,5,40,Data Analyst,Operations,5,40,1,1,1,1,1
+about_us_begin_004,begin,1,Senior Data Scientist,People Operations,4,40,Senior Data Scientist,People Operations,4,40,1,1,1,1,1
+about_us_begin_005,begin,1,Data Analyst,Data Platform,3,45,Data Analyst,Data Platform,3,45,1,1,1,1,1
+about_us_begin_006,begin,1,Software Engineer,Marketing Analytics,4,45,Software Engineer,Marketing Analytics,4,45,1,1,1,1,1
+about_us_begin_007,begin,1,Business Analyst,Finance Analytics,6,35,Business Analyst,Finance Analytics,6,35,1,1,1,1,1
+about_us_begin_008,begin,1,Data Analyst,Business Intelligence,3,40,Data Analyst,Business Intelligence,3,40,1,1,1,1,1
+about_us_begin_009,begin,1,Product Manager,Product Analytics,7,45,Product Manager,Product Analytics,7,45,1,1,1,1,1
+about_us_begin_010,begin,1,Software Engineer,Business Intelligence,7,40,Software Engineer,Business Intelligence,7,40,1,1,1,1,1
+about_us_begin_011,begin,1,Software Engineer,Marketing Analytics,5,35,Software Engineer,Marketing Analytics,5,35,1,1,1,1,1
+about_us_begin_012,begin,1,Data Analyst,People Operations,5,35,Data Analyst,People Operations,5,35,1,1,1,1,1
+about_us_begin_013,begin,1,Analytics Engineer,Operations,5,40,Analytics Engineer,Operations,5,40,1,1,1,1,1
+about_us_begin_014,begin,1,Software Engineer,Marketing Analytics,2,35,Software Engineer,Marketing Analytics,2,35,1,1,1,1,1
+about_us_begin_015,begin,1,Data Scientist,Operations,6,45,Data Scientist,Operations,6,45,1,1,1,1,1
+about_us_begin_016,begin,1,Data Scientist,Data Platform,3,40,Data Scientist,Data Platform,3,40,1,1,1,1,1
+about_us_begin_017,begin,1,Business Analyst,Finance Analytics,6,40,Business Analyst,Finance Analytics,6,40,1,1,1,1,1
+about_us_begin_018,begin,1,Analytics Engineer,Business Intelligence,5,40,Analytics Engineer,Business Intelligence,5,40,1,1,1,1,1
+about_us_begin_019,begin,1,Product Manager,Engineering,7,40,Product Manager,Engineering,7,40,1,1,1,1,1
+about_us_begin_020,begin,1,Product Manager,Data Platform,3,40,Product Manager,Data Platform,3,40,1,1,1,1,1
+about_us_begin_021,begin,1,Product Manager,Business Intelligence,2,45,Product Manager,Business Intelligence,2,45,1,1,1,1,1
+about_us_begin_022,begin,1,Software Engineer,Engineering,3,35,Software Engineer,Engineering,3,35,1,1,1,1,1
+about_us_begin_023,begin,1,Product Manager,Marketing Analytics,6,40,Product Manager,Marketing Analytics,6,40,1,1,1,1,1
+about_us_begin_024,begin,1,Analytics Engineer,Business Intelligence,4,35,Analytics Engineer,Business Intelligence,4,35,1,1,1,1,1
+about_us_begin_025,begin,1,Product Manager,Operations,5,40,Product Manager,Operations,5,40,1,1,1,1,1
+about_us_begin_026,begin,1,Senior Data Analyst,Engineering,6,35,Senior Data Analyst,Engineering,6,35,1,1,1,1,1
+about_us_begin_027,begin,1,Data Scientist,Product Analytics,5,45,Data Scientist,Product Analytics,5,45,1,1,1,1,1
+about_us_begin_028,begin,1,Software Engineer,Marketing Analytics,4,45,Software Engineer,Marketing Analytics,4,45,1,1,1,1,1
+about_us_begin_029,begin,1,Data Scientist,Data Platform,5,45,Data Scientist,Data Platform,5,45,1,1,1,1,1
+about_us_begin_030,begin,1,Software Engineer,Product Analytics,3,40,Software Engineer,Product Analytics,3,40,1,1,1,1,1
+about_us_begin_031,begin,1,Business Analyst,Marketing Analytics,3,35,Business Analyst,Marketing Analytics,3,35,1,1,1,1,1
+about_us_begin_032,begin,1,Data Scientist,Product Analytics,5,35,Data Scientist,Product Analytics,5,35,1,1,1,1,1
+about_us_begin_033,begin,1,Data Scientist,Marketing Analytics,3,35,Data Scientist,Marketing Analytics,3,35,1,1,1,1,1
+about_us_begin_034,begin,1,Business Analyst,Business Intelligence,5,45,Business Analyst,Business Intelligence,5,45,1,1,1,1,1
+about_us_begin_035,begin,1,Business Analyst,Data Platform,4,35,Business Analyst,Data Platform,4,35,1,1,1,1,1
+about_us_begin_036,begin,1,Software Engineer,Business Intelligence,4,35,Software Engineer,Business Intelligence,4,35,1,1,1,1,1
+about_us_begin_037,begin,1,Senior Data Analyst,Product Analytics,6,45,Senior Data Analyst,Product Analytics,6,45,1,1,1,1,1
+about_us_begin_038,begin,1,Senior Data Scientist,Operations,6,40,Senior Data Scientist,Operations,6,40,1,1,1,1,1
+about_us_begin_039,begin,1,Product Manager,Business Intelligence,6,35,Product Manager,Business Intelligence,6,35,1,1,1,1,1
+about_us_begin_040,begin,1,Business Analyst,Marketing Analytics,7,35,Business Analyst,Marketing Analytics,7,35,1,1,1,1,1
+about_us_begin_041,begin,1,Data Scientist,Finance Analytics,3,40,Data Scientist,Finance Analytics,3,40,1,1,1,1,1
+about_us_begin_042,begin,1,Analytics Engineer,Marketing Analytics,7,35,Analytics Engineer,Marketing Analytics,7,35,1,1,1,1,1
+about_us_begin_043,begin,1,Data Analyst,Engineering,4,35,Data Analyst,Engineering,4,35,1,1,1,1,1
+about_us_begin_044,begin,1,Business Analyst,Operations,5,45,Business Analyst,Operations,5,45,1,1,1,1,1
+about_us_begin_045,begin,1,Business Analyst,Operations,3,40,Business Analyst,Operations,3,40,1,1,1,1,1
+about_us_begin_046,begin,1,Analytics Engineer,Operations,3,45,Analytics Engineer,Operations,3,45,1,1,1,1,1
+about_us_begin_047,begin,1,Analytics Engineer,Product Analytics,5,40,Analytics Engineer,Product Analytics,5,40,1,1,1,1,1
+about_us_begin_048,begin,1,Product Manager,Marketing Analytics,6,40,Product Manager,Marketing Analytics,6,40,1,1,1,1,1
+about_us_begin_049,begin,1,Senior Data Analyst,People Operations,5,45,Senior Data Analyst,People Operations,5,45,1,1,1,1,1
+about_us_begin_050,begin,1,Data Scientist,Data Platform,4,35,Data Scientist,Data Platform,4,35,1,1,1,1,1
+about_us_begin_051,begin,1,Data Scientist,Product Analytics,6,35,Data Scientist,Product Analytics,6,35,1,1,1,1,1
+about_us_begin_052,begin,1,Data Scientist,Marketing Analytics,3,35,Data Scientist,Marketing Analytics,3,35,1,1,1,1,1
+about_us_begin_053,begin,1,Senior Data Analyst,Data Platform,3,45,Senior Data Analyst,Data Platform,3,45,1,1,1,1,1
+about_us_begin_054,begin,1,Data Scientist,Data Platform,2,35,Data Scientist,Data Platform,2,35,1,1,1,1,1
+about_us_begin_055,begin,1,Product Manager,Finance Analytics,2,40,Product Manager,Finance Analytics,2,40,1,1,1,1,1
+about_us_begin_056,begin,1,Product Manager,Marketing Analytics,4,45,Product Manager,Marketing Analytics,4,45,1,1,1,1,1
+about_us_begin_057,begin,1,Data Scientist,Operations,6,35,Data Scientist,Operations,6,35,1,1,1,1,1
+about_us_begin_058,begin,1,Senior Data Scientist,Engineering,6,35,Senior Data Scientist,Engineering,6,35,1,1,1,1,1
+about_us_begin_059,begin,1,Senior Data Analyst,Finance Analytics,7,35,Senior Data Analyst,Finance Analytics,7,35,1,1,1,1,1
+about_us_begin_060,begin,1,Data Scientist,Data Platform,4,45,Data Scientist,Data Platform,4,45,1,1,1,1,1
+about_us_begin_061,begin,1,Software Engineer,Product Analytics,4,45,Software Engineer,Product Analytics,4,45,1,1,1,1,1
+about_us_begin_062,begin,1,Product Manager,Business Intelligence,7,40,Product Manager,Business Intelligence,7,40,1,1,1,1,1
+about_us_begin_063,begin,1,Senior Data Scientist,Data Platform,2,40,Senior Data Scientist,Data Platform,2,40,1,1,1,1,1
+about_us_begin_064,begin,1,Analytics Engineer,Marketing Analytics,3,40,Analytics Engineer,Marketing Analytics,3,40,1,1,1,1,1
+about_us_begin_065,begin,1,Software Engineer,Engineering,4,45,Software Engineer,Engineering,4,45,1,1,1,1,1
+about_us_begin_066,begin,1,Data Scientist,Marketing Analytics,7,35,Data Scientist,Marketing Analytics,7,35,1,1,1,1,1
+about_us_begin_067,begin,1,Data Scientist,Operations,6,35,Data Scientist,Operations,6,35,1,1,1,1,1
+about_us_begin_068,begin,1,Senior Data Scientist,Business Intelligence,3,45,Senior Data Scientist,Business Intelligence,3,45,1,1,1,1,1
+about_us_begin_069,begin,1,Senior Data Analyst,Business Intelligence,3,45,Senior Data Analyst,Business Intelligence,3,45,1,1,1,1,1
+about_us_begin_070,begin,1,Data Analyst,People Operations,2,45,Data Analyst,People Operations,2,45,1,1,1,1,1
+about_us_begin_071,begin,1,Software Engineer,Marketing Analytics,6,40,Software Engineer,Marketing Analytics,6,40,1,1,1,1,1
+about_us_begin_072,begin,1,Senior Data Analyst,People Operations,2,35,Senior Data Analyst,People Operations,2,35,1,1,1,1,1
+about_us_begin_073,begin,1,Data Scientist,Data Platform,6,45,Data Scientist,Data Platform,6,45,1,1,1,1,1
+about_us_begin_074,begin,1,Product Manager,People Operations,7,40,Product Manager,People Operations,7,40,1,1,1,1,1
+about_us_begin_075,begin,1,Senior Data Scientist,People Operations,6,45,Senior Data Scientist,People Operations,6,45,1,1,1,1,1
+about_us_begin_076,begin,1,Data Analyst,Data Platform,7,35,Data Analyst,Data Platform,7,35,1,1,1,1,1
+about_us_begin_077,begin,1,Analytics Engineer,Marketing Analytics,7,40,Analytics Engineer,Marketing Analytics,7,40,1,1,1,1,1
+about_us_begin_078,begin,1,Business Analyst,Operations,6,35,Business Analyst,Operations,6,35,1,1,1,1,1
+about_us_begin_079,begin,1,Data Analyst,Product Analytics,6,40,Data Analyst,Product Analytics,6,40,1,1,1,1,1
+about_us_begin_080,begin,1,Senior Data Analyst,Business Intelligence,5,35,Senior Data Analyst,Business Intelligence,5,35,1,1,1,1,1
+about_us_begin_081,begin,1,Data Analyst,Engineering,2,40,Data Analyst,Engineering,2,40,1,1,1,1,1
+about_us_begin_082,begin,1,Data Analyst,People Operations,2,45,Data Analyst,People Operations,2,45,1,1,1,1,1
+about_us_begin_083,begin,1,Product Manager,Engineering,6,35,Product Manager,Engineering,6,35,1,1,1,1,1
+about_us_begin_084,begin,1,Software Engineer,Finance Analytics,5,35,Software Engineer,Finance Analytics,5,35,1,1,1,1,1
+about_us_begin_085,begin,1,Analytics Engineer,Business Intelligence,3,40,Analytics Engineer,Business Intelligence,3,40,1,1,1,1,1
+about_us_begin_086,begin,1,Product Manager,Business Intelligence,6,45,Product Manager,Business Intelligence,6,45,1,1,1,1,1
+about_us_begin_087,begin,1,Data Analyst,Data Platform,5,35,Data Analyst,Data Platform,5,35,1,1,1,1,1
+about_us_begin_088,begin,1,Business Analyst,People Operations,7,45,Business Analyst,People Operations,7,45,1,1,1,1,1
+about_us_begin_089,begin,1,Analytics Engineer,Operations,7,45,Analytics Engineer,Operations,7,45,1,1,1,1,1
+about_us_begin_090,begin,1,Data Analyst,Operations,7,35,Data Analyst,Operations,7,35,1,1,1,1,1
+about_us_begin_091,begin,1,Data Scientist,Business Intelligence,2,35,Data Scientist,Business Intelligence,2,35,1,1,1,1,1
+about_us_begin_092,begin,1,Business Analyst,Marketing Analytics,4,35,Business Analyst,Marketing Analytics,4,35,1,1,1,1,1
+about_us_begin_093,begin,1,Software Engineer,Business Intelligence,6,45,Software Engineer,Business Intelligence,6,45,1,1,1,1,1
+about_us_begin_094,begin,1,Senior Data Scientist,Operations,2,35,Senior Data Scientist,Operations,2,35,1,1,1,1,1
+about_us_begin_095,begin,1,Business Analyst,Data Platform,5,35,Business Analyst,Data Platform,5,35,1,1,1,1,1
+about_us_begin_096,begin,1,Senior Data Scientist,Engineering,3,35,Senior Data Scientist,Engineering,3,35,1,1,1,1,1
+about_us_begin_097,begin,1,Data Scientist,Product Analytics,6,40,Data Scientist,Product Analytics,6,40,1,1,1,1,1
+about_us_begin_098,begin,1,Product Manager,Finance Analytics,5,45,Product Manager,Finance Analytics,5,45,1,1,1,1,1
+about_us_begin_099,begin,1,Data Analyst,Product Analytics,2,35,Data Analyst,Product Analytics,2,35,1,1,1,1,1
+about_us_begin_100,begin,1,Data Scientist,Engineering,7,45,Data Scientist,Engineering,7,45,1,1,1,1,1
+about_us_end_001,end,1,Business Analyst,People Operations,7,45,Business Analyst,People Operations,7,45,1,1,1,1,1
+about_us_end_002,end,1,Senior Data Scientist,Engineering,7,35,Senior Data Scientist,Engineering,7,35,1,1,1,1,1
+about_us_end_003,end,1,Senior Data Scientist,Business Intelligence,2,45,Senior Data Scientist,Business Intelligence,2,45,1,1,1,1,1
+about_us_end_004,end,1,Data Analyst,Business Intelligence,7,35,Data Analyst,Business Intelligence,7,35,1,1,1,1,1
+about_us_end_005,end,1,Analytics Engineer,Business Intelligence,4,35,Analytics Engineer,Business Intelligence,4,35,1,1,1,1,1
+about_us_end_006,end,1,Product Manager,Finance Analytics,3,35,Product Manager,Finance Analytics,3,35,1,1,1,1,1
+about_us_end_007,end,1,Senior Data Analyst,Product Analytics,6,40,Senior Data Analyst,Product Analytics,6,40,1,1,1,1,1
+about_us_end_008,end,1,Senior Data Scientist,Finance Analytics,2,40,Senior Data Scientist,Finance Analytics,2,40,1,1,1,1,1
+about_us_end_009,end,1,Senior Data Analyst,Marketing Analytics,4,40,Senior Data Analyst,Marketing Analytics,4,40,1,1,1,1,1
+about_us_end_010,end,1,Product Manager,Operations,5,45,Product Manager,Operations,5,45,1,1,1,1,1
+about_us_end_011,end,1,Data Scientist,Marketing Analytics,6,40,Data Scientist,Marketing Analytics,6,40,1,1,1,1,1
+about_us_end_012,end,1,Business Analyst,Business Intelligence,4,40,Business Analyst,Business Intelligence,4,40,1,1,1,1,1
+about_us_end_013,end,1,Software Engineer,Product Analytics,6,40,Software Engineer,Product Analytics,6,40,1,1,1,1,1
+about_us_end_014,end,1,Senior Data Analyst,People Operations,5,35,Senior Data Analyst,People Operations,5,35,1,1,1,1,1
+about_us_end_015,end,1,Product Manager,Operations,3,45,Product Manager,Operations,3,45,1,1,1,1,1
+about_us_end_016,end,1,Senior Data Scientist,People Operations,6,45,Senior Data Scientist,People Operations,6,45,1,1,1,1,1
+about_us_end_017,end,1,Data Analyst,People Operations,4,35,Data Analyst,People Operations,4,35,1,1,1,1,1
+about_us_end_018,end,1,Analytics Engineer,People Operations,4,35,Analytics Engineer,People Operations,4,35,1,1,1,1,1
+about_us_end_019,end,1,Senior Data Analyst,Finance Analytics,2,40,Senior Data Analyst,Finance Analytics,2,40,1,1,1,1,1
+about_us_end_020,end,1,Senior Data Analyst,People Operations,3,45,Senior Data Analyst,People Operations,3,45,1,1,1,1,1
+about_us_end_021,end,1,Senior Data Analyst,Business Intelligence,7,40,Senior Data Analyst,Business Intelligence,7,40,1,1,1,1,1
+about_us_end_022,end,1,Analytics Engineer,Operations,2,35,Analytics Engineer,Operations,2,35,1,1,1,1,1
+about_us_end_023,end,1,Data Scientist,Marketing Analytics,3,40,Data Scientist,Marketing Analytics,3,40,1,1,1,1,1
+about_us_end_024,end,1,Product Manager,Data Platform,5,40,Product Manager,Data Platform,5,40,1,1,1,1,1
+about_us_end_025,end,1,Product Manager,Finance Analytics,4,40,Product Manager,Finance Analytics,4,40,1,1,1,1,1
+about_us_end_026,end,1,Software Engineer,Product Analytics,7,40,Software Engineer,Product Analytics,7,40,1,1,1,1,1
+about_us_end_027,end,1,Senior Data Analyst,Marketing Analytics,6,45,Senior Data Analyst,Marketing Analytics,6,45,1,1,1,1,1
+about_us_end_028,end,1,Software Engineer,Data Platform,5,45,Software Engineer,Data Platform,5,45,1,1,1,1,1
+about_us_end_029,end,1,Software Engineer,Operations,3,40,Software Engineer,Operations,3,40,1,1,1,1,1
+about_us_end_030,end,1,Business Analyst,Business Intelligence,2,35,Business Analyst,Business Intelligence,2,35,1,1,1,1,1
+about_us_end_031,end,1,Data Scientist,People Operations,6,40,Data Scientist,People Operations,6,40,1,1,1,1,1
+about_us_end_032,end,1,Product Manager,People Operations,4,40,Product Manager,People Operations,4,40,1,1,1,1,1
+about_us_end_033,end,1,Product Manager,People Operations,6,45,Product Manager,People Operations,6,45,1,1,1,1,1
+about_us_end_034,end,1,Software Engineer,People Operations,6,35,Software Engineer,People Operations,6,35,1,1,1,1,1
+about_us_end_035,end,1,Senior Data Scientist,Product Analytics,5,35,Senior Data Scientist,Product Analytics,5,35,1,1,1,1,1
+about_us_end_036,end,1,Senior Data Analyst,People Operations,7,40,Senior Data Analyst,People Operations,7,40,1,1,1,1,1
+about_us_end_037,end,1,Senior Data Scientist,People Operations,3,40,Senior Data Scientist,People Operations,3,40,1,1,1,1,1
+about_us_end_038,end,1,Data Analyst,Marketing Analytics,6,35,Data Analyst,Marketing Analytics,6,35,1,1,1,1,1
+about_us_end_039,end,1,Product Manager,Business Intelligence,2,45,Product Manager,Business Intelligence,2,45,1,1,1,1,1
+about_us_end_040,end,1,Senior Data Analyst,Business Intelligence,4,45,Senior Data Analyst,Business Intelligence,4,45,1,1,1,1,1
+about_us_end_041,end,1,Senior Data Analyst,Business Intelligence,4,35,Senior Data Analyst,Business Intelligence,4,35,1,1,1,1,1
+about_us_end_042,end,1,Senior Data Analyst,Engineering,7,45,Senior Data Analyst,Engineering,7,45,1,1,1,1,1
+about_us_end_043,end,1,Senior Data Scientist,People Operations,3,35,Senior Data Scientist,People Operations,3,35,1,1,1,1,1
+about_us_end_044,end,1,Product Manager,Product Analytics,5,45,Product Manager,Product Analytics,5,45,1,1,1,1,1
+about_us_end_045,end,1,Business Analyst,Business Intelligence,4,35,Business Analyst,Business Intelligence,4,35,1,1,1,1,1
+about_us_end_046,end,1,Data Scientist,People Operations,2,40,Data Scientist,People Operations,2,40,1,1,1,1,1
+about_us_end_047,end,1,Analytics Engineer,People Operations,4,45,Analytics Engineer,People Operations,4,45,1,1,1,1,1
+about_us_end_048,end,1,Data Analyst,Data Platform,4,45,Data Analyst,Data Platform,4,45,1,1,1,1,1
+about_us_end_049,end,1,Senior Data Analyst,Finance Analytics,2,45,Senior Data Analyst,Finance Analytics,2,45,1,1,1,1,1
+about_us_end_050,end,1,Analytics Engineer,Marketing Analytics,4,45,Analytics Engineer,Marketing Analytics,4,45,1,1,1,1,1
+about_us_end_051,end,1,Product Manager,Data Platform,2,45,Product Manager,Data Platform,2,45,1,1,1,1,1
+about_us_end_052,end,1,Senior Data Analyst,Business Intelligence,3,35,Senior Data Analyst,Business Intelligence,3,35,1,1,1,1,1
+about_us_end_053,end,1,Data Scientist,People Operations,7,45,Data Scientist,People Operations,7,45,1,1,1,1,1
+about_us_end_054,end,1,Software Engineer,Data Platform,2,45,Software Engineer,Data Platform,2,45,1,1,1,1,1
+about_us_end_055,end,1,Business Analyst,Operations,6,40,Business Analyst,Operations,6,40,1,1,1,1,1
+about_us_end_056,end,1,Senior Data Analyst,Data Platform,2,45,Senior Data Analyst,Data Platform,2,45,1,1,1,1,1
+about_us_end_057,end,1,Data Analyst,Marketing Analytics,2,40,Data Analyst,Marketing Analytics,2,40,1,1,1,1,1
+about_us_end_058,end,1,Data Scientist,Engineering,6,45,Data Scientist,Engineering,6,45,1,1,1,1,1
+about_us_end_059,end,1,Senior Data Analyst,Engineering,4,45,Senior Data Analyst,Engineering,4,45,1,1,1,1,1
+about_us_end_060,end,1,Analytics Engineer,Marketing Analytics,4,40,Analytics Engineer,Marketing Analytics,4,40,1,1,1,1,1
+about_us_end_061,end,1,Business Analyst,Finance Analytics,7,45,Business Analyst,Finance Analytics,7,45,1,1,1,1,1
+about_us_end_062,end,1,Business Analyst,Data Platform,2,40,Business Analyst,Data Platform,2,40,1,1,1,1,1
+about_us_end_063,end,1,Analytics Engineer,Business Intelligence,6,35,Analytics Engineer,Business Intelligence,6,35,1,1,1,1,1
+about_us_end_064,end,1,Product Manager,Business Intelligence,6,45,Product Manager,Business Intelligence,6,45,1,1,1,1,1
+about_us_end_065,end,1,Data Analyst,Engineering,2,40,Data Analyst,Engineering,2,40,1,1,1,1,1
+about_us_end_066,end,1,Analytics Engineer,Business Intelligence,6,40,Analytics Engineer,Business Intelligence,6,40,1,1,1,1,1
+about_us_end_067,end,1,Senior Data Scientist,Operations,6,35,Senior Data Scientist,Operations,6,35,1,1,1,1,1
+about_us_end_068,end,1,Business Analyst,People Operations,2,45,Business Analyst,People Operations,2,45,1,1,1,1,1
+about_us_end_069,end,1,Senior Data Scientist,Finance Analytics,7,40,Senior Data Scientist,Finance Analytics,7,40,1,1,1,1,1
+about_us_end_070,end,1,Senior Data Scientist,Business Intelligence,5,45,Senior Data Scientist,Business Intelligence,5,45,1,1,1,1,1
+about_us_end_071,end,1,Data Analyst,Data Platform,5,35,Data Analyst,Data Platform,5,35,1,1,1,1,1
+about_us_end_072,end,1,Business Analyst,Operations,4,35,Business Analyst,Operations,4,35,1,1,1,1,1
+about_us_end_073,end,1,Data Analyst,Operations,3,40,Data Analyst,Operations,3,40,1,1,1,1,1
+about_us_end_074,end,1,Analytics Engineer,Data Platform,3,45,Analytics Engineer,Data Platform,3,45,1,1,1,1,1
+about_us_end_075,end,1,Product Manager,Data Platform,4,45,Product Manager,Data Platform,4,45,1,1,1,1,1
+about_us_end_076,end,1,Data Scientist,Engineering,4,45,Data Scientist,Engineering,4,45,1,1,1,1,1
+about_us_end_077,end,1,Data Analyst,Data Platform,2,45,Data Analyst,Data Platform,2,45,1,1,1,1,1
+about_us_end_078,end,1,Senior Data Analyst,Finance Analytics,3,45,Senior Data Analyst,Finance Analytics,3,45,1,1,1,1,1
+about_us_end_079,end,1,Senior Data Scientist,People Operations,6,35,Senior Data Scientist,People Operations,6,35,1,1,1,1,1
+about_us_end_080,end,1,Data Scientist,Product Analytics,4,45,Data Scientist,Product Analytics,4,45,1,1,1,1,1
+about_us_end_081,end,1,Business Analyst,Business Intelligence,7,45,Business Analyst,Business Intelligence,7,45,1,1,1,1,1
+about_us_end_082,end,1,Product Manager,Marketing Analytics,3,40,Product Manager,Marketing Analytics,3,40,1,1,1,1,1
+about_us_end_083,end,1,Product Manager,Finance Analytics,5,40,Product Manager,Finance Analytics,5,40,1,1,1,1,1
+about_us_end_084,end,1,Senior Data Analyst,Business Intelligence,4,45,Senior Data Analyst,Business Intelligence,4,45,1,1,1,1,1
+about_us_end_085,end,1,Data Scientist,Finance Analytics,5,45,Data Scientist,Finance Analytics,5,45,1,1,1,1,1
+about_us_end_086,end,1,Software Engineer,Product Analytics,2,40,Software Engineer,Product Analytics,2,40,1,1,1,1,1
+about_us_end_087,end,1,Product Manager,Finance Analytics,4,45,Product Manager,Finance Analytics,4,45,1,1,1,1,1
+about_us_end_088,end,1,Data Analyst,People Operations,5,40,Data Analyst,People Operations,5,40,1,1,1,1,1
+about_us_end_089,end,1,Data Analyst,Engineering,7,45,Data Analyst,Engineering,7,45,1,1,1,1,1
+about_us_end_090,end,1,Business Analyst,Operations,7,35,Business Analyst,Operations,7,35,1,1,1,1,1
+about_us_end_091,end,1,Analytics Engineer,Finance Analytics,7,40,Analytics Engineer,Finance Analytics,7,40,1,1,1,1,1
+about_us_end_092,end,1,Senior Data Analyst,Finance Analytics,7,45,Senior Data Analyst,Finance Analytics,7,45,1,1,1,1,1
+about_us_end_093,end,1,Senior Data Analyst,Marketing Analytics,5,35,Senior Data Analyst,Marketing Analytics,5,35,1,1,1,1,1
+about_us_end_094,end,1,Analytics Engineer,Engineering,7,35,Analytics Engineer,Engineering,7,35,1,1,1,1,1
+about_us_end_095,end,1,Data Scientist,Operations,4,40,Data Scientist,Operations,4,40,1,1,1,1,1
+about_us_end_096,end,1,Senior Data Analyst,Business Intelligence,2,35,Senior Data Analyst,Business Intelligence,2,35,1,1,1,1,1
+about_us_end_097,end,1,Business Analyst,Product Analytics,2,45,Business Analyst,Product Analytics,2,45,1,1,1,1,1
+about_us_end_098,end,1,Software Engineer,Marketing Analytics,5,40,Software Engineer,Marketing Analytics,5,40,1,1,1,1,1
+about_us_end_099,end,1,Data Analyst,Product Analytics,2,40,Data Analyst,Product Analytics,2,40,1,1,1,1,1
+about_us_end_100,end,1,Data Analyst,Business Intelligence,4,35,Data Analyst,Business Intelligence,4,35,1,1,1,1,1
+about_us_middle_001,middle,1,Data Analyst,Product Analytics,4,40,Data Analyst,,4,40,1,0,1,1,0
+about_us_middle_002,middle,1,Data Analyst,Data Platform,2,45,Data Analyst,Data Platform,2,45,1,1,1,1,1
+about_us_middle_003,middle,1,Senior Data Analyst,Product Analytics,2,40,Senior Data Analyst,Product Analytics,2,40,1,1,1,1,1
+about_us_middle_004,middle,1,Senior Data Analyst,Data Platform,4,35,Senior Data Analyst,Data Platform,4,35,1,1,1,1,1
+about_us_middle_005,middle,1,Data Analyst,Marketing Analytics,6,40,Data Analyst,Marketing Analytics,6,40,1,1,1,1,1
+about_us_middle_006,middle,1,Data Scientist,Marketing Analytics,7,45,Data Scientist,Marketing Analytics,7,45,1,1,1,1,1
+about_us_middle_007,middle,1,Data Scientist,People Operations,7,40,Data Scientist,People Operations,7,40,1,1,1,1,1
+about_us_middle_008,middle,1,Senior Data Analyst,Data Platform,7,45,Senior Data Analyst,Data Platform,7,45,1,1,1,1,1
+about_us_middle_009,middle,1,Analytics Engineer,Marketing Analytics,5,45,Analytics Engineer,Marketing Analytics,5,45,1,1,1,1,1
+about_us_middle_010,middle,1,Software Engineer,People Operations,7,40,Software Engineer,People Operations,7,40,1,1,1,1,1
+about_us_middle_011,middle,1,Product Manager,Finance Analytics,3,40,Product Manager,Finance Analytics,3,40,1,1,1,1,1
+about_us_middle_012,middle,1,Analytics Engineer,Product Analytics,4,35,Analytics Engineer,Product Analytics,4,35,1,1,1,1,1
+about_us_middle_013,middle,1,Data Analyst,Marketing Analytics,5,40,Data Analyst,Marketing Analytics,5,40,1,1,1,1,1
+about_us_middle_014,middle,1,Senior Data Scientist,Engineering,3,45,Senior Data Scientist,Engineering,3,45,1,1,1,1,1
+about_us_middle_015,middle,1,Senior Data Analyst,People Operations,4,35,Senior Data Analyst,People Operations,4,35,1,1,1,1,1
+about_us_middle_016,middle,1,Software Engineer,Finance Analytics,7,40,Software Engineer,Finance Analytics,7,40,1,1,1,1,1
+about_us_middle_017,middle,1,Analytics Engineer,Operations,5,40,Analytics Engineer,Operations,5,40,1,1,1,1,1
+about_us_middle_018,middle,1,Analytics Engineer,Business Intelligence,6,40,Analytics Engineer,,6,40,1,0,1,1,0
+about_us_middle_019,middle,1,Software Engineer,Operations,6,45,Software Engineer,Operations,6,45,1,1,1,1,1
+about_us_middle_020,middle,1,Senior Data Scientist,Data Platform,5,45,Senior Data Scientist,Data Platform,5,45,1,1,1,1,1
+about_us_middle_021,middle,1,Senior Data Scientist,Finance Analytics,3,45,Senior Data Scientist,Finance Analytics,3,45,1,1,1,1,1
+about_us_middle_022,middle,1,Product Manager,Product Analytics,3,40,Product Manager,Product Analytics,3,40,1,1,1,1,1
+about_us_middle_023,middle,1,Analytics Engineer,Product Analytics,7,45,Analytics Engineer,Product Analytics,7,45,1,1,1,1,1
+about_us_middle_024,middle,1,Data Scientist,Data Platform,5,40,Data Scientist,Data Platform,5,40,1,1,1,1,1
+about_us_middle_025,middle,1,Product Manager,Engineering,7,35,Product Manager,Engineering,7,35,1,1,1,1,1
+about_us_middle_026,middle,1,Analytics Engineer,Product Analytics,6,35,Analytics Engineer,Product Analytics,6,35,1,1,1,1,1
+about_us_middle_027,middle,1,Data Analyst,Data Platform,4,40,Data Analyst,Data Platform,4,40,1,1,1,1,1
+about_us_middle_028,middle,1,Product Manager,Business Intelligence,7,40,Product Manager,Business Intelligence,7,40,1,1,1,1,1
+about_us_middle_029,middle,1,Data Analyst,Data Platform,3,35,Data Analyst,Data Platform,3,35,1,1,1,1,1
+about_us_middle_030,middle,1,Analytics Engineer,Engineering,3,45,Analytics Engineer,Engineering,3,45,1,1,1,1,1
+about_us_middle_031,middle,1,Product Manager,Data Platform,3,35,Product Manager,Data Platform,3,35,1,1,1,1,1
+about_us_middle_032,middle,1,Analytics Engineer,Marketing Analytics,2,35,Analytics Engineer,Marketing Analytics,2,35,1,1,1,1,1
+about_us_middle_033,middle,1,Software Engineer,People Operations,3,45,Software Engineer,People Operations,3,45,1,1,1,1,1
+about_us_middle_034,middle,1,Product Manager,Product Analytics,2,45,Product Manager,Product Analytics,2,45,1,1,1,1,1
+about_us_middle_035,middle,1,Business Analyst,Data Platform,4,40,Business Analyst,Data Platform,4,40,1,1,1,1,1
+about_us_middle_036,middle,1,Senior Data Scientist,Operations,5,40,Senior Data Scientist,Operations,5,40,1,1,1,1,1
+about_us_middle_037,middle,1,Product Manager,Data Platform,3,40,Product Manager,Data Platform,3,40,1,1,1,1,1
+about_us_middle_038,middle,1,Senior Data Scientist,People Operations,5,40,Senior Data Scientist,People Operations,5,40,1,1,1,1,1
+about_us_middle_039,middle,1,Senior Data Scientist,People Operations,5,35,Senior Data Scientist,People Operations,5,35,1,1,1,1,1
+about_us_middle_040,middle,1,Senior Data Scientist,Operations,3,45,Senior Data Scientist,Operations,3,45,1,1,1,1,1
+about_us_middle_041,middle,1,Product Manager,Finance Analytics,5,40,Product Manager,Finance Analytics,5,40,1,1,1,1,1
+about_us_middle_042,middle,1,Business Analyst,Engineering,7,35,Business Analyst,Engineering,7,35,1,1,1,1,1
+about_us_middle_043,middle,1,Data Analyst,Engineering,2,40,Data Analyst,Engineering,2,40,1,1,1,1,1
+about_us_middle_044,middle,1,Product Manager,Operations,5,40,Product Manager,Operations,5,40,1,1,1,1,1
+about_us_middle_045,middle,1,Data Scientist,Marketing Analytics,4,35,Data Scientist,Marketing Analytics,4,35,1,1,1,1,1
+about_us_middle_046,middle,1,Product Manager,Engineering,3,35,Product Manager,Engineering,3,35,1,1,1,1,1
+about_us_middle_047,middle,1,Senior Data Scientist,People Operations,5,40,Senior Data Scientist,People Operations,5,40,1,1,1,1,1
+about_us_middle_048,middle,1,Senior Data Analyst,People Operations,6,45,Senior Data Analyst,People Operations,6,45,1,1,1,1,1
+about_us_middle_049,middle,1,Analytics Engineer,Finance Analytics,4,40,Analytics Engineer,Finance Analytics,4,40,1,1,1,1,1
+about_us_middle_050,middle,1,Business Analyst,Business Intelligence,6,35,Business Analyst,,6,35,1,0,1,1,0
+about_us_middle_051,middle,1,Data Analyst,People Operations,3,40,Data Analyst,People Operations,3,40,1,1,1,1,1
+about_us_middle_052,middle,1,Product Manager,Data Platform,4,45,Product Manager,Data Platform,4,45,1,1,1,1,1
+about_us_middle_053,middle,1,Business Analyst,Business Intelligence,2,40,Business Analyst,Business Intelligence,2,40,1,1,1,1,1
+about_us_middle_054,middle,1,Data Analyst,Marketing Analytics,5,45,Data Analyst,Marketing Analytics,5,45,1,1,1,1,1
+about_us_middle_055,middle,1,Data Scientist,Business Intelligence,3,35,Data Scientist,Business Intelligence,3,35,1,1,1,1,1
+about_us_middle_056,middle,1,Data Scientist,Engineering,4,35,Data Scientist,Engineering,4,35,1,1,1,1,1
+about_us_middle_057,middle,1,Data Scientist,Finance Analytics,4,35,Data Scientist,Finance Analytics,4,35,1,1,1,1,1
+about_us_middle_058,middle,1,Business Analyst,Product Analytics,6,35,Business Analyst,Product Analytics,6,35,1,1,1,1,1
+about_us_middle_059,middle,1,Software Engineer,Business Intelligence,7,35,Software Engineer,Business Intelligence,7,35,1,1,1,1,1
+about_us_middle_060,middle,1,Software Engineer,Marketing Analytics,4,35,Software Engineer,Marketing Analytics,4,35,1,1,1,1,1
+about_us_middle_061,middle,1,Data Analyst,Operations,5,45,Data Analyst,Operations,5,45,1,1,1,1,1
+about_us_middle_062,middle,1,Analytics Engineer,Product Analytics,3,45,Analytics Engineer,Product Analytics,3,45,1,1,1,1,1
+about_us_middle_063,middle,1,Business Analyst,Engineering,7,40,Business Analyst,Engineering,7,40,1,1,1,1,1
+about_us_middle_064,middle,1,Senior Data Analyst,Business Intelligence,4,40,Senior Data Analyst,Business Intelligence,4,40,1,1,1,1,1
+about_us_middle_065,middle,1,Software Engineer,Marketing Analytics,3,35,Software Engineer,Marketing Analytics,3,35,1,1,1,1,1
+about_us_middle_066,middle,1,Product Manager,Operations,2,45,Product Manager,Operations,2,45,1,1,1,1,1
+about_us_middle_067,middle,1,Senior Data Scientist,Marketing Analytics,6,40,Senior Data Scientist,Marketing Analytics,6,40,1,1,1,1,1
+about_us_middle_068,middle,1,Senior Data Analyst,Engineering,4,45,Senior Data Analyst,Engineering,4,45,1,1,1,1,1
+about_us_middle_069,middle,1,Business Analyst,People Operations,6,35,Business Analyst,People Operations,6,35,1,1,1,1,1
+about_us_middle_070,middle,1,Product Manager,Finance Analytics,2,35,Product Manager,Finance Analytics,2,35,1,1,1,1,1
+about_us_middle_071,middle,1,Senior Data Scientist,Data Platform,2,35,Senior Data Scientist,Data Platform,2,35,1,1,1,1,1
+about_us_middle_072,middle,1,Software Engineer,Finance Analytics,2,40,Software Engineer,Finance Analytics,2,40,1,1,1,1,1
+about_us_middle_073,middle,1,Software Engineer,Engineering,6,40,Software Engineer,Engineering,6,40,1,1,1,1,1
+about_us_middle_074,middle,1,Senior Data Scientist,Product Analytics,4,35,Senior Data Scientist,Product Analytics,4,35,1,1,1,1,1
+about_us_middle_075,middle,1,Senior Data Scientist,Business Intelligence,2,35,Senior Data Scientist,Business Intelligence,2,35,1,1,1,1,1
+about_us_middle_076,middle,1,Product Manager,People Operations,2,35,Product Manager,People Operations,2,35,1,1,1,1,1
+about_us_middle_077,middle,1,Software Engineer,Product Analytics,5,45,Software Engineer,Product Analytics,5,45,1,1,1,1,1
+about_us_middle_078,middle,1,Software Engineer,Operations,3,35,Software Engineer,Operations,3,35,1,1,1,1,1
+about_us_middle_079,middle,1,Data Analyst,Operations,6,40,Data Analyst,Operations,6,40,1,1,1,1,1
+about_us_middle_080,middle,1,Product Manager,Business Intelligence,3,45,Product Manager,Business Intelligence,3,45,1,1,1,1,1
+about_us_middle_081,middle,1,Business Analyst,Operations,2,35,Business Analyst,Operations,2,35,1,1,1,1,1
+about_us_middle_082,middle,1,Senior Data Analyst,Operations,7,35,Senior Data Analyst,Operations,7,35,1,1,1,1,1
+about_us_middle_083,middle,1,Data Analyst,Operations,7,40,Data Analyst,Operations,7,40,1,1,1,1,1
+about_us_middle_084,middle,1,Data Analyst,Marketing Analytics,3,40,Data Analyst,Marketing Analytics,3,40,1,1,1,1,1
+about_us_middle_085,middle,1,Business Analyst,Engineering,4,40,Business Analyst,Engineering,4,40,1,1,1,1,1
+about_us_middle_086,middle,1,Software Engineer,Operations,5,40,Software Engineer,Operations,5,40,1,1,1,1,1
+about_us_middle_087,middle,1,Senior Data Analyst,Business Intelligence,6,45,Senior Data Analyst,Business Intelligence,6,45,1,1,1,1,1
+about_us_middle_088,middle,1,Senior Data Analyst,People Operations,5,40,Senior Data Analyst,People Operations,5,40,1,1,1,1,1
+about_us_middle_089,middle,1,Data Scientist,Operations,3,35,Data Scientist,Operations,3,35,1,1,1,1,1
+about_us_middle_090,middle,1,Senior Data Scientist,Marketing Analytics,6,45,Senior Data Scientist,Marketing Analytics,6,45,1,1,1,1,1
+about_us_middle_091,middle,1,Senior Data Scientist,Data Platform,3,40,Senior Data Scientist,Data Platform,3,40,1,1,1,1,1
+about_us_middle_092,middle,1,Senior Data Analyst,Business Intelligence,4,35,Senior Data Analyst,Business Intelligence,4,35,1,1,1,1,1
+about_us_middle_093,middle,1,Software Engineer,Marketing Analytics,2,35,Software Engineer,Marketing Analytics,2,35,1,1,1,1,1
+about_us_middle_094,middle,1,Software Engineer,People Operations,6,40,Software Engineer,People Operations,6,40,1,1,1,1,1
+about_us_middle_095,middle,1,Analytics Engineer,Business Intelligence,7,40,Analytics Engineer,Business Intelligence,7,40,1,1,1,1,1
+about_us_middle_096,middle,1,Data Scientist,Marketing Analytics,3,35,Data Scientist,Marketing Analytics,3,35,1,1,1,1,1
+about_us_middle_097,middle,1,Data Analyst,Marketing Analytics,5,40,Data Analyst,Marketing Analytics,5,40,1,1,1,1,1
+about_us_middle_098,middle,1,Data Analyst,Engineering,5,35,Data Analyst,Engineering,5,35,1,1,1,1,1
+about_us_middle_099,middle,1,Product Manager,Marketing Analytics,2,45,Product Manager,Marketing Analytics,2,45,1,1,1,1,1
+about_us_middle_100,middle,1,Senior Data Analyst,Operations,3,45,Senior Data Analyst,Operations,3,45,1,1,1,1,1

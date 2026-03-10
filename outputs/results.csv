@@ -1,0 +1,1501 @@
+doc_id,position,field,predicted,truth,correct,json_valid
+about_us_begin_046,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_046,begin,department,Operations,Operations,1,1
+about_us_begin_046,begin,years_at_company,3,3,1,1
+about_us_begin_046,begin,weekly_hours,45,45,1,1
+about_us_begin_046,begin,ALL_FIELDS,,,1,1
+about_us_middle_053,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_053,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_053,middle,years_at_company,2,2,1,1
+about_us_middle_053,middle,weekly_hours,40,40,1,1
+about_us_middle_053,middle,ALL_FIELDS,,,1,1
+about_us_end_093,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_093,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_093,end,years_at_company,5,5,1,1
+about_us_end_093,end,weekly_hours,35,35,1,1
+about_us_end_093,end,ALL_FIELDS,,,1,1
+about_us_begin_011,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_011,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_011,begin,years_at_company,5,5,1,1
+about_us_begin_011,begin,weekly_hours,35,35,1,1
+about_us_begin_011,begin,ALL_FIELDS,,,1,1
+about_us_middle_004,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_004,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_004,middle,years_at_company,4,4,1,1
+about_us_middle_004,middle,weekly_hours,35,35,1,1
+about_us_middle_004,middle,ALL_FIELDS,,,1,1
+about_us_end_085,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_085,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_085,end,years_at_company,5,5,1,1
+about_us_end_085,end,weekly_hours,45,45,1,1
+about_us_end_085,end,ALL_FIELDS,,,1,1
+about_us_begin_007,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_007,begin,department,Finance Analytics,Finance Analytics,1,1
+about_us_begin_007,begin,years_at_company,6,6,1,1
+about_us_begin_007,begin,weekly_hours,35,35,1,1
+about_us_begin_007,begin,ALL_FIELDS,,,1,1
+about_us_middle_012,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_012,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_012,middle,years_at_company,4,4,1,1
+about_us_middle_012,middle,weekly_hours,35,35,1,1
+about_us_middle_012,middle,ALL_FIELDS,,,1,1
+about_us_middle_100,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_100,middle,department,Operations,Operations,1,1
+about_us_middle_100,middle,years_at_company,3,3,1,1
+about_us_middle_100,middle,weekly_hours,45,45,1,1
+about_us_middle_100,middle,ALL_FIELDS,,,1,1
+about_us_begin_050,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_050,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_050,begin,years_at_company,4,4,1,1
+about_us_begin_050,begin,weekly_hours,35,35,1,1
+about_us_begin_050,begin,ALL_FIELDS,,,1,1
+about_us_middle_045,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_045,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_045,middle,years_at_company,4,4,1,1
+about_us_middle_045,middle,weekly_hours,35,35,1,1
+about_us_middle_045,middle,ALL_FIELDS,,,1,1
+about_us_end_046,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_046,end,department,People Operations,People Operations,1,1
+about_us_end_046,end,years_at_company,2,2,1,1
+about_us_end_046,end,weekly_hours,40,40,1,1
+about_us_end_046,end,ALL_FIELDS,,,1,1
+about_us_end_011,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_011,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_011,end,years_at_company,6,6,1,1
+about_us_end_011,end,weekly_hours,40,40,1,1
+about_us_end_011,end,ALL_FIELDS,,,1,1
+about_us_middle_069,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_069,middle,department,People Operations,People Operations,1,1
+about_us_middle_069,middle,years_at_company,6,6,1,1
+about_us_middle_069,middle,weekly_hours,35,35,1,1
+about_us_middle_069,middle,ALL_FIELDS,,,1,1
+about_us_begin_093,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_093,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_093,begin,years_at_company,6,6,1,1
+about_us_begin_093,begin,weekly_hours,45,45,1,1
+about_us_begin_093,begin,ALL_FIELDS,,,1,1
+about_us_middle_086,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_086,middle,department,Operations,Operations,1,1
+about_us_middle_086,middle,years_at_company,5,5,1,1
+about_us_middle_086,middle,weekly_hours,40,40,1,1
+about_us_middle_086,middle,ALL_FIELDS,,,1,1
+about_us_end_007,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_007,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_007,end,years_at_company,6,6,1,1
+about_us_end_007,end,weekly_hours,40,40,1,1
+about_us_end_007,end,ALL_FIELDS,,,1,1
+about_us_begin_085,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_085,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_085,begin,years_at_company,3,3,1,1
+about_us_begin_085,begin,weekly_hours,40,40,1,1
+about_us_begin_085,begin,ALL_FIELDS,,,1,1
+about_us_middle_090,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_090,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_090,middle,years_at_company,6,6,1,1
+about_us_middle_090,middle,weekly_hours,45,45,1,1
+about_us_middle_090,middle,ALL_FIELDS,,,1,1
+about_us_end_050,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_050,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_050,end,years_at_company,4,4,1,1
+about_us_end_050,end,weekly_hours,45,45,1,1
+about_us_end_050,end,ALL_FIELDS,,,1,1
+about_us_middle_028,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_028,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_028,middle,years_at_company,7,7,1,1
+about_us_middle_028,middle,weekly_hours,40,40,1,1
+about_us_middle_028,middle,ALL_FIELDS,,,1,1
+about_us_end_027,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_027,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_027,end,years_at_company,6,6,1,1
+about_us_end_027,end,weekly_hours,45,45,1,1
+about_us_end_027,end,ALL_FIELDS,,,1,1
+about_us_middle_008,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_008,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_008,middle,years_at_company,7,7,1,1
+about_us_middle_008,middle,weekly_hours,45,45,1,1
+about_us_middle_008,middle,ALL_FIELDS,,,1,1
+about_us_end_070,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_070,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_070,end,years_at_company,5,5,1,1
+about_us_end_070,end,weekly_hours,45,45,1,1
+about_us_end_070,end,ALL_FIELDS,,,1,1
+about_us_end_066,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_066,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_066,end,years_at_company,6,6,1,1
+about_us_end_066,end,weekly_hours,40,40,1,1
+about_us_end_066,end,ALL_FIELDS,,,1,1
+about_us_end_089,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_089,end,department,Engineering,Engineering,1,1
+about_us_end_089,end,years_at_company,7,7,1,1
+about_us_end_089,end,weekly_hours,45,45,1,1
+about_us_end_089,end,ALL_FIELDS,,,1,1
+about_us_middle_049,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_049,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_049,middle,years_at_company,4,4,1,1
+about_us_middle_049,middle,weekly_hours,40,40,1,1
+about_us_middle_049,middle,ALL_FIELDS,,,1,1
+about_us_end_031,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_031,end,department,People Operations,People Operations,1,1
+about_us_end_031,end,years_at_company,6,6,1,1
+about_us_end_031,end,weekly_hours,40,40,1,1
+about_us_end_031,end,ALL_FIELDS,,,1,1
+about_us_middle_032,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_032,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_032,middle,years_at_company,2,2,1,1
+about_us_middle_032,middle,weekly_hours,35,35,1,1
+about_us_middle_032,middle,ALL_FIELDS,,,1,1
+about_us_begin_027,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_027,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_027,begin,years_at_company,5,5,1,1
+about_us_begin_027,begin,weekly_hours,45,45,1,1
+about_us_begin_027,begin,ALL_FIELDS,,,1,1
+about_us_middle_065,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_065,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_065,middle,years_at_company,3,3,1,1
+about_us_middle_065,middle,weekly_hours,35,35,1,1
+about_us_middle_065,middle,ALL_FIELDS,,,1,1
+about_us_begin_070,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_070,begin,department,People Operations,People Operations,1,1
+about_us_begin_070,begin,years_at_company,2,2,1,1
+about_us_begin_070,begin,weekly_hours,45,45,1,1
+about_us_begin_070,begin,ALL_FIELDS,,,1,1
+about_us_middle_073,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_073,middle,department,Engineering,Engineering,1,1
+about_us_middle_073,middle,years_at_company,6,6,1,1
+about_us_middle_073,middle,weekly_hours,40,40,1,1
+about_us_middle_073,middle,ALL_FIELDS,,,1,1
+about_us_begin_089,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_089,begin,department,Operations,Operations,1,1
+about_us_begin_089,begin,years_at_company,7,7,1,1
+about_us_begin_089,begin,weekly_hours,45,45,1,1
+about_us_begin_089,begin,ALL_FIELDS,,,1,1
+about_us_begin_066,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_066,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_066,begin,years_at_company,7,7,1,1
+about_us_begin_066,begin,weekly_hours,35,35,1,1
+about_us_begin_066,begin,ALL_FIELDS,,,1,1
+about_us_middle_024,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_024,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_024,middle,years_at_company,5,5,1,1
+about_us_middle_024,middle,weekly_hours,40,40,1,1
+about_us_middle_024,middle,ALL_FIELDS,,,1,1
+about_us_begin_031,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_031,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_031,begin,years_at_company,3,3,1,1
+about_us_begin_031,begin,weekly_hours,35,35,1,1
+about_us_begin_031,begin,ALL_FIELDS,,,1,1
+about_us_middle_025,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_025,middle,department,Engineering,Engineering,1,1
+about_us_middle_025,middle,years_at_company,7,7,1,1
+about_us_middle_025,middle,weekly_hours,35,35,1,1
+about_us_middle_025,middle,ALL_FIELDS,,,1,1
+about_us_begin_030,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_030,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_030,begin,years_at_company,3,3,1,1
+about_us_begin_030,begin,weekly_hours,40,40,1,1
+about_us_begin_030,begin,ALL_FIELDS,,,1,1
+about_us_middle_072,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_072,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_072,middle,years_at_company,2,2,1,1
+about_us_middle_072,middle,weekly_hours,40,40,1,1
+about_us_middle_072,middle,ALL_FIELDS,,,1,1
+about_us_begin_088,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_088,begin,department,People Operations,People Operations,1,1
+about_us_begin_088,begin,years_at_company,7,7,1,1
+about_us_begin_088,begin,weekly_hours,45,45,1,1
+about_us_begin_088,begin,ALL_FIELDS,,,1,1
+about_us_begin_067,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_067,begin,department,Operations,Operations,1,1
+about_us_begin_067,begin,years_at_company,6,6,1,1
+about_us_begin_067,begin,weekly_hours,35,35,1,1
+about_us_begin_067,begin,ALL_FIELDS,,,1,1
+about_us_middle_064,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_064,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_064,middle,years_at_company,4,4,1,1
+about_us_middle_064,middle,weekly_hours,40,40,1,1
+about_us_middle_064,middle,ALL_FIELDS,,,1,1
+about_us_begin_071,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_071,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_071,begin,years_at_company,6,6,1,1
+about_us_begin_071,begin,weekly_hours,40,40,1,1
+about_us_begin_071,begin,ALL_FIELDS,,,1,1
+about_us_middle_033,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_033,middle,department,People Operations,People Operations,1,1
+about_us_middle_033,middle,years_at_company,3,3,1,1
+about_us_middle_033,middle,weekly_hours,45,45,1,1
+about_us_middle_033,middle,ALL_FIELDS,,,1,1
+about_us_begin_026,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_026,begin,department,Engineering,Engineering,1,1
+about_us_begin_026,begin,years_at_company,6,6,1,1
+about_us_begin_026,begin,weekly_hours,35,35,1,1
+about_us_begin_026,begin,ALL_FIELDS,,,1,1
+about_us_end_030,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_030,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_030,end,years_at_company,2,2,1,1
+about_us_end_030,end,weekly_hours,35,35,1,1
+about_us_end_030,end,ALL_FIELDS,,,1,1
+about_us_middle_048,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_048,middle,department,People Operations,People Operations,1,1
+about_us_middle_048,middle,years_at_company,6,6,1,1
+about_us_middle_048,middle,weekly_hours,45,45,1,1
+about_us_middle_048,middle,ALL_FIELDS,,,1,1
+about_us_end_067,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_067,end,department,Operations,Operations,1,1
+about_us_end_067,end,years_at_company,6,6,1,1
+about_us_end_067,end,weekly_hours,35,35,1,1
+about_us_end_067,end,ALL_FIELDS,,,1,1
+about_us_end_088,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_088,end,department,People Operations,People Operations,1,1
+about_us_end_088,end,years_at_company,5,5,1,1
+about_us_end_088,end,weekly_hours,40,40,1,1
+about_us_end_088,end,ALL_FIELDS,,,1,1
+about_us_end_071,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_071,end,department,Data Platform,Data Platform,1,1
+about_us_end_071,end,years_at_company,5,5,1,1
+about_us_end_071,end,weekly_hours,35,35,1,1
+about_us_end_071,end,ALL_FIELDS,,,1,1
+about_us_middle_009,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_009,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_009,middle,years_at_company,5,5,1,1
+about_us_middle_009,middle,weekly_hours,45,45,1,1
+about_us_middle_009,middle,ALL_FIELDS,,,1,1
+about_us_end_026,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_026,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_026,end,years_at_company,7,7,1,1
+about_us_end_026,end,weekly_hours,40,40,1,1
+about_us_end_026,end,ALL_FIELDS,,,1,1
+about_us_middle_029,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_029,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_029,middle,years_at_company,3,3,1,1
+about_us_middle_029,middle,weekly_hours,35,35,1,1
+about_us_middle_029,middle,ALL_FIELDS,,,1,1
+about_us_end_051,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_051,end,department,Data Platform,Data Platform,1,1
+about_us_end_051,end,years_at_company,2,2,1,1
+about_us_end_051,end,weekly_hours,45,45,1,1
+about_us_end_051,end,ALL_FIELDS,,,1,1
+about_us_begin_084,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_084,begin,department,Finance Analytics,Finance Analytics,1,1
+about_us_begin_084,begin,years_at_company,5,5,1,1
+about_us_begin_084,begin,weekly_hours,35,35,1,1
+about_us_begin_084,begin,ALL_FIELDS,,,1,1
+about_us_middle_091,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_091,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_091,middle,years_at_company,3,3,1,1
+about_us_middle_091,middle,weekly_hours,40,40,1,1
+about_us_middle_091,middle,ALL_FIELDS,,,1,1
+about_us_end_006,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_006,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_006,end,years_at_company,3,3,1,1
+about_us_end_006,end,weekly_hours,35,35,1,1
+about_us_end_006,end,ALL_FIELDS,,,1,1
+about_us_middle_068,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_068,middle,department,Engineering,Engineering,1,1
+about_us_middle_068,middle,years_at_company,4,4,1,1
+about_us_middle_068,middle,weekly_hours,45,45,1,1
+about_us_middle_068,middle,ALL_FIELDS,,,1,1
+about_us_begin_092,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_092,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_092,begin,years_at_company,4,4,1,1
+about_us_begin_092,begin,weekly_hours,35,35,1,1
+about_us_begin_092,begin,ALL_FIELDS,,,1,1
+about_us_middle_087,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_087,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_087,middle,years_at_company,6,6,1,1
+about_us_middle_087,middle,weekly_hours,45,45,1,1
+about_us_middle_087,middle,ALL_FIELDS,,,1,1
+about_us_end_010,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_010,end,department,Operations,Operations,1,1
+about_us_end_010,end,years_at_company,5,5,1,1
+about_us_end_010,end,weekly_hours,45,45,1,1
+about_us_end_010,end,ALL_FIELDS,,,1,1
+about_us_end_047,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_047,end,department,People Operations,People Operations,1,1
+about_us_end_047,end,years_at_company,4,4,1,1
+about_us_end_047,end,weekly_hours,45,45,1,1
+about_us_end_047,end,ALL_FIELDS,,,1,1
+about_us_begin_051,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_051,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_051,begin,years_at_company,6,6,1,1
+about_us_begin_051,begin,weekly_hours,35,35,1,1
+about_us_begin_051,begin,ALL_FIELDS,,,1,1
+about_us_middle_044,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_044,middle,department,Operations,Operations,1,1
+about_us_middle_044,middle,years_at_company,5,5,1,1
+about_us_middle_044,middle,weekly_hours,40,40,1,1
+about_us_middle_044,middle,ALL_FIELDS,,,1,1
+about_us_begin_006,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_006,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_006,begin,years_at_company,4,4,1,1
+about_us_begin_006,begin,weekly_hours,45,45,1,1
+about_us_begin_006,begin,ALL_FIELDS,,,1,1
+about_us_middle_013,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_013,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_013,middle,years_at_company,5,5,1,1
+about_us_middle_013,middle,weekly_hours,40,40,1,1
+about_us_middle_013,middle,ALL_FIELDS,,,1,1
+about_us_end_084,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_084,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_084,end,years_at_company,4,4,1,1
+about_us_end_084,end,weekly_hours,45,45,1,1
+about_us_end_084,end,ALL_FIELDS,,,1,1
+about_us_begin_010,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_010,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_010,begin,years_at_company,7,7,1,1
+about_us_begin_010,begin,weekly_hours,40,40,1,1
+about_us_begin_010,begin,ALL_FIELDS,,,1,1
+about_us_middle_005,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_005,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_005,middle,years_at_company,6,6,1,1
+about_us_middle_005,middle,weekly_hours,40,40,1,1
+about_us_middle_005,middle,ALL_FIELDS,,,1,1
+about_us_end_092,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_092,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_092,end,years_at_company,7,7,1,1
+about_us_end_092,end,weekly_hours,45,45,1,1
+about_us_end_092,end,ALL_FIELDS,,,1,1
+about_us_begin_047,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_047,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_047,begin,years_at_company,5,5,1,1
+about_us_begin_047,begin,weekly_hours,40,40,1,1
+about_us_begin_047,begin,ALL_FIELDS,,,1,1
+about_us_middle_052,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_052,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_052,middle,years_at_company,4,4,1,1
+about_us_middle_052,middle,weekly_hours,45,45,1,1
+about_us_middle_052,middle,ALL_FIELDS,,,1,1
+about_us_middle_059,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_059,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_059,middle,years_at_company,7,7,1,1
+about_us_middle_059,middle,weekly_hours,35,35,1,1
+about_us_middle_059,middle,ALL_FIELDS,,,1,1
+about_us_end_021,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_021,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_021,end,years_at_company,7,7,1,1
+about_us_end_021,end,weekly_hours,40,40,1,1
+about_us_end_021,end,ALL_FIELDS,,,1,1
+about_us_end_076,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_076,end,department,Engineering,Engineering,1,1
+about_us_end_076,end,years_at_company,4,4,1,1
+about_us_end_076,end,weekly_hours,45,45,1,1
+about_us_end_076,end,ALL_FIELDS,,,1,1
+about_us_end_099,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_099,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_099,end,years_at_company,2,2,1,1
+about_us_end_099,end,weekly_hours,40,40,1,1
+about_us_end_099,end,ALL_FIELDS,,,1,1
+about_us_middle_018,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_018,middle,department,,Business Intelligence,0,1
+about_us_middle_018,middle,years_at_company,6,6,1,1
+about_us_middle_018,middle,weekly_hours,40,40,1,1
+about_us_middle_018,middle,ALL_FIELDS,,,0,1
+about_us_end_060,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_060,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_060,end,years_at_company,4,4,1,1
+about_us_end_060,end,weekly_hours,40,40,1,1
+about_us_end_060,end,ALL_FIELDS,,,1,1
+about_us_end_037,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_037,end,department,People Operations,People Operations,1,1
+about_us_end_037,end,years_at_company,3,3,1,1
+about_us_end_037,end,weekly_hours,40,40,1,1
+about_us_end_037,end,ALL_FIELDS,,,1,1
+about_us_middle_034,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_034,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_034,middle,years_at_company,2,2,1,1
+about_us_middle_034,middle,weekly_hours,45,45,1,1
+about_us_middle_034,middle,ALL_FIELDS,,,1,1
+about_us_begin_021,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_021,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_021,begin,years_at_company,2,2,1,1
+about_us_begin_021,begin,weekly_hours,45,45,1,1
+about_us_begin_021,begin,ALL_FIELDS,,,1,1
+about_us_begin_099,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_099,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_099,begin,years_at_company,2,2,1,1
+about_us_begin_099,begin,weekly_hours,35,35,1,1
+about_us_begin_099,begin,ALL_FIELDS,,,1,1
+about_us_middle_063,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_063,middle,department,Engineering,Engineering,1,1
+about_us_middle_063,middle,years_at_company,7,7,1,1
+about_us_middle_063,middle,weekly_hours,40,40,1,1
+about_us_middle_063,middle,ALL_FIELDS,,,1,1
+about_us_begin_076,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_076,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_076,begin,years_at_company,7,7,1,1
+about_us_begin_076,begin,weekly_hours,35,35,1,1
+about_us_begin_076,begin,ALL_FIELDS,,,1,1
+about_us_middle_075,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_075,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_075,middle,years_at_company,2,2,1,1
+about_us_middle_075,middle,weekly_hours,35,35,1,1
+about_us_middle_075,middle,ALL_FIELDS,,,1,1
+about_us_begin_060,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_060,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_060,begin,years_at_company,4,4,1,1
+about_us_begin_060,begin,weekly_hours,45,45,1,1
+about_us_begin_060,begin,ALL_FIELDS,,,1,1
+about_us_middle_022,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_022,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_022,middle,years_at_company,3,3,1,1
+about_us_middle_022,middle,weekly_hours,40,40,1,1
+about_us_middle_022,middle,ALL_FIELDS,,,1,1
+about_us_begin_037,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_037,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_037,begin,years_at_company,6,6,1,1
+about_us_begin_037,begin,weekly_hours,45,45,1,1
+about_us_begin_037,begin,ALL_FIELDS,,,1,1
+about_us_begin_040,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_040,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_040,begin,years_at_company,7,7,1,1
+about_us_begin_040,begin,weekly_hours,35,35,1,1
+about_us_begin_040,begin,ALL_FIELDS,,,1,1
+about_us_middle_055,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_055,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_055,middle,years_at_company,3,3,1,1
+about_us_middle_055,middle,weekly_hours,35,35,1,1
+about_us_middle_055,middle,ALL_FIELDS,,,1,1
+about_us_end_095,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_095,end,department,Operations,Operations,1,1
+about_us_end_095,end,years_at_company,4,4,1,1
+about_us_end_095,end,weekly_hours,40,40,1,1
+about_us_end_095,end,ALL_FIELDS,,,1,1
+about_us_begin_017,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_017,begin,department,Finance Analytics,Finance Analytics,1,1
+about_us_begin_017,begin,years_at_company,6,6,1,1
+about_us_begin_017,begin,weekly_hours,40,40,1,1
+about_us_begin_017,begin,ALL_FIELDS,,,1,1
+about_us_middle_002,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_002,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_002,middle,years_at_company,2,2,1,1
+about_us_middle_002,middle,weekly_hours,45,45,1,1
+about_us_middle_002,middle,ALL_FIELDS,,,1,1
+about_us_end_083,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_083,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_083,end,years_at_company,5,5,1,1
+about_us_end_083,end,weekly_hours,40,40,1,1
+about_us_end_083,end,ALL_FIELDS,,,1,1
+about_us_begin_001,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_001,begin,department,Operations,Operations,1,1
+about_us_begin_001,begin,years_at_company,3,3,1,1
+about_us_begin_001,begin,weekly_hours,35,35,1,1
+about_us_begin_001,begin,ALL_FIELDS,,,1,1
+about_us_middle_014,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_014,middle,department,Engineering,Engineering,1,1
+about_us_middle_014,middle,years_at_company,3,3,1,1
+about_us_middle_014,middle,weekly_hours,45,45,1,1
+about_us_middle_014,middle,ALL_FIELDS,,,1,1
+about_us_begin_056,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_056,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_056,begin,years_at_company,4,4,1,1
+about_us_begin_056,begin,weekly_hours,45,45,1,1
+about_us_begin_056,begin,ALL_FIELDS,,,1,1
+about_us_middle_043,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_043,middle,department,Engineering,Engineering,1,1
+about_us_middle_043,middle,years_at_company,2,2,1,1
+about_us_middle_043,middle,weekly_hours,40,40,1,1
+about_us_middle_043,middle,ALL_FIELDS,,,1,1
+about_us_end_040,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_040,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_040,end,years_at_company,4,4,1,1
+about_us_end_040,end,weekly_hours,45,45,1,1
+about_us_end_040,end,ALL_FIELDS,,,1,1
+about_us_middle_038,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_038,middle,department,People Operations,People Operations,1,1
+about_us_middle_038,middle,years_at_company,5,5,1,1
+about_us_middle_038,middle,weekly_hours,40,40,1,1
+about_us_middle_038,middle,ALL_FIELDS,,,1,1
+about_us_end_017,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_017,end,department,People Operations,People Operations,1,1
+about_us_end_017,end,years_at_company,4,4,1,1
+about_us_end_017,end,weekly_hours,35,35,1,1
+about_us_end_017,end,ALL_FIELDS,,,1,1
+about_us_begin_095,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_095,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_095,begin,years_at_company,5,5,1,1
+about_us_begin_095,begin,weekly_hours,35,35,1,1
+about_us_begin_095,begin,ALL_FIELDS,,,1,1
+about_us_middle_080,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_080,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_080,middle,years_at_company,3,3,1,1
+about_us_middle_080,middle,weekly_hours,45,45,1,1
+about_us_middle_080,middle,ALL_FIELDS,,,1,1
+about_us_end_001,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_001,end,department,People Operations,People Operations,1,1
+about_us_end_001,end,years_at_company,7,7,1,1
+about_us_end_001,end,weekly_hours,45,45,1,1
+about_us_end_001,end,ALL_FIELDS,,,1,1
+about_us_begin_083,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_083,begin,department,Engineering,Engineering,1,1
+about_us_begin_083,begin,years_at_company,6,6,1,1
+about_us_begin_083,begin,weekly_hours,35,35,1,1
+about_us_begin_083,begin,ALL_FIELDS,,,1,1
+about_us_middle_079,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_079,middle,department,Operations,Operations,1,1
+about_us_middle_079,middle,years_at_company,6,6,1,1
+about_us_middle_079,middle,weekly_hours,40,40,1,1
+about_us_middle_079,middle,ALL_FIELDS,,,1,1
+about_us_middle_096,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_096,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_096,middle,years_at_company,3,3,1,1
+about_us_middle_096,middle,weekly_hours,35,35,1,1
+about_us_middle_096,middle,ALL_FIELDS,,,1,1
+about_us_end_056,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_056,end,department,Data Platform,Data Platform,1,1
+about_us_end_056,end,years_at_company,2,2,1,1
+about_us_end_056,end,weekly_hours,45,45,1,1
+about_us_end_056,end,ALL_FIELDS,,,1,1
+about_us_end_057,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_057,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_057,end,years_at_company,2,2,1,1
+about_us_end_057,end,weekly_hours,40,40,1,1
+about_us_end_057,end,ALL_FIELDS,,,1,1
+about_us_begin_082,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_082,begin,department,People Operations,People Operations,1,1
+about_us_begin_082,begin,years_at_company,2,2,1,1
+about_us_begin_082,begin,weekly_hours,45,45,1,1
+about_us_begin_082,begin,ALL_FIELDS,,,1,1
+about_us_middle_078,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_078,middle,department,Operations,Operations,1,1
+about_us_middle_078,middle,years_at_company,3,3,1,1
+about_us_middle_078,middle,weekly_hours,35,35,1,1
+about_us_middle_078,middle,ALL_FIELDS,,,1,1
+about_us_middle_097,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_097,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_097,middle,years_at_company,5,5,1,1
+about_us_middle_097,middle,weekly_hours,40,40,1,1
+about_us_middle_097,middle,ALL_FIELDS,,,1,1
+about_us_begin_094,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_094,begin,department,Operations,Operations,1,1
+about_us_begin_094,begin,years_at_company,2,2,1,1
+about_us_begin_094,begin,weekly_hours,35,35,1,1
+about_us_begin_094,begin,ALL_FIELDS,,,1,1
+about_us_middle_081,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_081,middle,department,Operations,Operations,1,1
+about_us_middle_081,middle,years_at_company,2,2,1,1
+about_us_middle_081,middle,weekly_hours,35,35,1,1
+about_us_middle_081,middle,ALL_FIELDS,,,1,1
+about_us_end_016,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_016,end,department,People Operations,People Operations,1,1
+about_us_end_016,end,years_at_company,6,6,1,1
+about_us_end_016,end,weekly_hours,45,45,1,1
+about_us_end_016,end,ALL_FIELDS,,,1,1
+about_us_middle_039,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_039,middle,department,People Operations,People Operations,1,1
+about_us_middle_039,middle,years_at_company,5,5,1,1
+about_us_middle_039,middle,weekly_hours,35,35,1,1
+about_us_middle_039,middle,ALL_FIELDS,,,1,1
+about_us_end_041,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_041,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_041,end,years_at_company,4,4,1,1
+about_us_end_041,end,weekly_hours,35,35,1,1
+about_us_end_041,end,ALL_FIELDS,,,1,1
+about_us_begin_057,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_057,begin,department,Operations,Operations,1,1
+about_us_begin_057,begin,years_at_company,6,6,1,1
+about_us_begin_057,begin,weekly_hours,35,35,1,1
+about_us_begin_057,begin,ALL_FIELDS,,,1,1
+about_us_middle_042,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_042,middle,department,Engineering,Engineering,1,1
+about_us_middle_042,middle,years_at_company,7,7,1,1
+about_us_middle_042,middle,weekly_hours,35,35,1,1
+about_us_middle_042,middle,ALL_FIELDS,,,1,1
+about_us_middle_015,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_015,middle,department,People Operations,People Operations,1,1
+about_us_middle_015,middle,years_at_company,4,4,1,1
+about_us_middle_015,middle,weekly_hours,35,35,1,1
+about_us_middle_015,middle,ALL_FIELDS,,,1,1
+about_us_end_082,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_082,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_082,end,years_at_company,3,3,1,1
+about_us_end_082,end,weekly_hours,40,40,1,1
+about_us_end_082,end,ALL_FIELDS,,,1,1
+about_us_begin_016,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_016,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_016,begin,years_at_company,3,3,1,1
+about_us_begin_016,begin,weekly_hours,40,40,1,1
+about_us_begin_016,begin,ALL_FIELDS,,,1,1
+about_us_middle_003,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_003,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_003,middle,years_at_company,2,2,1,1
+about_us_middle_003,middle,weekly_hours,40,40,1,1
+about_us_middle_003,middle,ALL_FIELDS,,,1,1
+about_us_end_094,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_094,end,department,Engineering,Engineering,1,1
+about_us_end_094,end,years_at_company,7,7,1,1
+about_us_end_094,end,weekly_hours,35,35,1,1
+about_us_end_094,end,ALL_FIELDS,,,1,1
+about_us_begin_041,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_041,begin,department,Finance Analytics,Finance Analytics,1,1
+about_us_begin_041,begin,years_at_company,3,3,1,1
+about_us_begin_041,begin,weekly_hours,40,40,1,1
+about_us_begin_041,begin,ALL_FIELDS,,,1,1
+about_us_middle_054,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_054,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_054,middle,years_at_company,5,5,1,1
+about_us_middle_054,middle,weekly_hours,45,45,1,1
+about_us_middle_054,middle,ALL_FIELDS,,,1,1
+about_us_middle_023,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_023,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_023,middle,years_at_company,7,7,1,1
+about_us_middle_023,middle,weekly_hours,45,45,1,1
+about_us_middle_023,middle,ALL_FIELDS,,,1,1
+about_us_begin_036,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_036,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_036,begin,years_at_company,4,4,1,1
+about_us_begin_036,begin,weekly_hours,35,35,1,1
+about_us_begin_036,begin,ALL_FIELDS,,,1,1
+about_us_middle_074,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_074,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_074,middle,years_at_company,4,4,1,1
+about_us_middle_074,middle,weekly_hours,35,35,1,1
+about_us_middle_074,middle,ALL_FIELDS,,,1,1
+about_us_begin_061,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_061,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_061,begin,years_at_company,4,4,1,1
+about_us_begin_061,begin,weekly_hours,45,45,1,1
+about_us_begin_061,begin,ALL_FIELDS,,,1,1
+about_us_begin_098,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_098,begin,department,Finance Analytics,Finance Analytics,1,1
+about_us_begin_098,begin,years_at_company,5,5,1,1
+about_us_begin_098,begin,weekly_hours,45,45,1,1
+about_us_begin_098,begin,ALL_FIELDS,,,1,1
+about_us_middle_062,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_062,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_062,middle,years_at_company,3,3,1,1
+about_us_middle_062,middle,weekly_hours,45,45,1,1
+about_us_middle_062,middle,ALL_FIELDS,,,1,1
+about_us_begin_077,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_077,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_077,begin,years_at_company,7,7,1,1
+about_us_begin_077,begin,weekly_hours,40,40,1,1
+about_us_begin_077,begin,ALL_FIELDS,,,1,1
+about_us_middle_035,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_035,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_035,middle,years_at_company,4,4,1,1
+about_us_middle_035,middle,weekly_hours,40,40,1,1
+about_us_middle_035,middle,ALL_FIELDS,,,1,1
+about_us_begin_020,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_020,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_020,begin,years_at_company,3,3,1,1
+about_us_begin_020,begin,weekly_hours,40,40,1,1
+about_us_begin_020,begin,ALL_FIELDS,,,1,1
+about_us_end_036,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_036,end,department,People Operations,People Operations,1,1
+about_us_end_036,end,years_at_company,7,7,1,1
+about_us_end_036,end,weekly_hours,40,40,1,1
+about_us_end_036,end,ALL_FIELDS,,,1,1
+about_us_end_061,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_061,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_061,end,years_at_company,7,7,1,1
+about_us_end_061,end,weekly_hours,45,45,1,1
+about_us_end_061,end,ALL_FIELDS,,,1,1
+about_us_middle_019,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_019,middle,department,Operations,Operations,1,1
+about_us_middle_019,middle,years_at_company,6,6,1,1
+about_us_middle_019,middle,weekly_hours,45,45,1,1
+about_us_middle_019,middle,ALL_FIELDS,,,1,1
+about_us_end_077,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_077,end,department,Data Platform,Data Platform,1,1
+about_us_end_077,end,years_at_company,2,2,1,1
+about_us_end_077,end,weekly_hours,45,45,1,1
+about_us_end_077,end,ALL_FIELDS,,,1,1
+about_us_end_098,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_098,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_098,end,years_at_company,5,5,1,1
+about_us_end_098,end,weekly_hours,40,40,1,1
+about_us_end_098,end,ALL_FIELDS,,,1,1
+about_us_end_020,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_020,end,department,People Operations,People Operations,1,1
+about_us_end_020,end,years_at_company,3,3,1,1
+about_us_end_020,end,weekly_hours,45,45,1,1
+about_us_end_020,end,ALL_FIELDS,,,1,1
+about_us_middle_058,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_058,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_058,middle,years_at_company,6,6,1,1
+about_us_middle_058,middle,weekly_hours,35,35,1,1
+about_us_middle_058,middle,ALL_FIELDS,,,1,1
+about_us_end_058,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_058,end,department,Engineering,Engineering,1,1
+about_us_end_058,end,years_at_company,6,6,1,1
+about_us_end_058,end,weekly_hours,45,45,1,1
+about_us_end_058,end,ALL_FIELDS,,,1,1
+about_us_begin_035,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_035,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_035,begin,years_at_company,4,4,1,1
+about_us_begin_035,begin,weekly_hours,35,35,1,1
+about_us_begin_035,begin,ALL_FIELDS,,,1,1
+about_us_middle_020,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_020,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_020,middle,years_at_company,5,5,1,1
+about_us_middle_020,middle,weekly_hours,45,45,1,1
+about_us_middle_020,middle,ALL_FIELDS,,,1,1
+about_us_begin_062,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_062,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_062,begin,years_at_company,7,7,1,1
+about_us_begin_062,begin,weekly_hours,40,40,1,1
+about_us_begin_062,begin,ALL_FIELDS,,,1,1
+about_us_middle_098,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_098,middle,department,Engineering,Engineering,1,1
+about_us_middle_098,middle,years_at_company,5,5,1,1
+about_us_middle_098,middle,weekly_hours,35,35,1,1
+about_us_middle_098,middle,ALL_FIELDS,,,1,1
+about_us_middle_077,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_077,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_077,middle,years_at_company,5,5,1,1
+about_us_middle_077,middle,weekly_hours,45,45,1,1
+about_us_middle_077,middle,ALL_FIELDS,,,1,1
+about_us_end_019,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_019,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_019,end,years_at_company,2,2,1,1
+about_us_end_019,end,weekly_hours,40,40,1,1
+about_us_end_019,end,ALL_FIELDS,,,1,1
+about_us_begin_074,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_074,begin,department,People Operations,People Operations,1,1
+about_us_begin_074,begin,years_at_company,7,7,1,1
+about_us_begin_074,begin,weekly_hours,40,40,1,1
+about_us_begin_074,begin,ALL_FIELDS,,,1,1
+about_us_middle_061,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_061,middle,department,Operations,Operations,1,1
+about_us_middle_061,middle,years_at_company,5,5,1,1
+about_us_middle_061,middle,weekly_hours,45,45,1,1
+about_us_middle_061,middle,ALL_FIELDS,,,1,1
+about_us_begin_023,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_023,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_023,begin,years_at_company,6,6,1,1
+about_us_begin_023,begin,weekly_hours,40,40,1,1
+about_us_begin_023,begin,ALL_FIELDS,,,1,1
+about_us_middle_036,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_036,middle,department,Operations,Operations,1,1
+about_us_middle_036,middle,years_at_company,5,5,1,1
+about_us_middle_036,middle,weekly_hours,40,40,1,1
+about_us_middle_036,middle,ALL_FIELDS,,,1,1
+about_us_end_035,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_035,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_035,end,years_at_company,5,5,1,1
+about_us_end_035,end,weekly_hours,35,35,1,1
+about_us_end_035,end,ALL_FIELDS,,,1,1
+about_us_begin_058,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_058,begin,department,Engineering,Engineering,1,1
+about_us_begin_058,begin,years_at_company,6,6,1,1
+about_us_begin_058,begin,weekly_hours,35,35,1,1
+about_us_begin_058,begin,ALL_FIELDS,,,1,1
+about_us_end_062,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_062,end,department,Data Platform,Data Platform,1,1
+about_us_end_062,end,years_at_company,2,2,1,1
+about_us_end_062,end,weekly_hours,40,40,1,1
+about_us_end_062,end,ALL_FIELDS,,,1,1
+about_us_end_074,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_074,end,department,Data Platform,Data Platform,1,1
+about_us_end_074,end,years_at_company,3,3,1,1
+about_us_end_074,end,weekly_hours,45,45,1,1
+about_us_end_074,end,ALL_FIELDS,,,1,1
+about_us_begin_019,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_019,begin,department,Engineering,Engineering,1,1
+about_us_begin_019,begin,years_at_company,7,7,1,1
+about_us_begin_019,begin,weekly_hours,40,40,1,1
+about_us_begin_019,begin,ALL_FIELDS,,,1,1
+about_us_end_023,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_023,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_023,end,years_at_company,3,3,1,1
+about_us_end_023,end,weekly_hours,40,40,1,1
+about_us_end_023,end,ALL_FIELDS,,,1,1
+about_us_begin_039,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_039,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_039,begin,years_at_company,6,6,1,1
+about_us_begin_039,begin,weekly_hours,35,35,1,1
+about_us_begin_039,begin,ALL_FIELDS,,,1,1
+about_us_end_054,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_054,end,department,Data Platform,Data Platform,1,1
+about_us_end_054,end,years_at_company,2,2,1,1
+about_us_end_054,end,weekly_hours,45,45,1,1
+about_us_end_054,end,ALL_FIELDS,,,1,1
+about_us_middle_094,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_094,middle,department,People Operations,People Operations,1,1
+about_us_middle_094,middle,years_at_company,6,6,1,1
+about_us_middle_094,middle,weekly_hours,40,40,1,1
+about_us_middle_094,middle,ALL_FIELDS,,,1,1
+about_us_begin_081,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_081,begin,department,Engineering,Engineering,1,1
+about_us_begin_081,begin,years_at_company,2,2,1,1
+about_us_begin_081,begin,weekly_hours,40,40,1,1
+about_us_begin_081,begin,ALL_FIELDS,,,1,1
+about_us_end_003,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_003,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_003,end,years_at_company,2,2,1,1
+about_us_end_003,end,weekly_hours,45,45,1,1
+about_us_end_003,end,ALL_FIELDS,,,1,1
+about_us_begin_078,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_078,begin,department,Operations,Operations,1,1
+about_us_begin_078,begin,years_at_company,6,6,1,1
+about_us_begin_078,begin,weekly_hours,35,35,1,1
+about_us_begin_078,begin,ALL_FIELDS,,,1,1
+about_us_middle_082,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_082,middle,department,Operations,Operations,1,1
+about_us_middle_082,middle,years_at_company,7,7,1,1
+about_us_middle_082,middle,weekly_hours,35,35,1,1
+about_us_middle_082,middle,ALL_FIELDS,,,1,1
+about_us_begin_097,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_097,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_097,begin,years_at_company,6,6,1,1
+about_us_begin_097,begin,weekly_hours,40,40,1,1
+about_us_begin_097,begin,ALL_FIELDS,,,1,1
+about_us_end_015,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_015,end,department,Operations,Operations,1,1
+about_us_end_015,end,years_at_company,3,3,1,1
+about_us_end_015,end,weekly_hours,45,45,1,1
+about_us_end_015,end,ALL_FIELDS,,,1,1
+about_us_end_042,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_042,end,department,Engineering,Engineering,1,1
+about_us_end_042,end,years_at_company,7,7,1,1
+about_us_end_042,end,weekly_hours,45,45,1,1
+about_us_end_042,end,ALL_FIELDS,,,1,1
+about_us_middle_041,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_041,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_041,middle,years_at_company,5,5,1,1
+about_us_middle_041,middle,weekly_hours,40,40,1,1
+about_us_middle_041,middle,ALL_FIELDS,,,1,1
+about_us_begin_054,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_054,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_054,begin,years_at_company,2,2,1,1
+about_us_begin_054,begin,weekly_hours,35,35,1,1
+about_us_begin_054,begin,ALL_FIELDS,,,1,1
+about_us_end_039,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_039,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_039,end,years_at_company,2,2,1,1
+about_us_end_039,end,weekly_hours,45,45,1,1
+about_us_end_039,end,ALL_FIELDS,,,1,1
+about_us_middle_016,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_016,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_016,middle,years_at_company,7,7,1,1
+about_us_middle_016,middle,weekly_hours,40,40,1,1
+about_us_middle_016,middle,ALL_FIELDS,,,1,1
+about_us_begin_003,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_003,begin,department,Operations,Operations,1,1
+about_us_begin_003,begin,years_at_company,5,5,1,1
+about_us_begin_003,begin,weekly_hours,40,40,1,1
+about_us_begin_003,begin,ALL_FIELDS,,,1,1
+about_us_end_081,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_081,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_081,end,years_at_company,7,7,1,1
+about_us_end_081,end,weekly_hours,45,45,1,1
+about_us_end_081,end,ALL_FIELDS,,,1,1
+about_us_begin_015,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_015,begin,department,Operations,Operations,1,1
+about_us_begin_015,begin,years_at_company,6,6,1,1
+about_us_begin_015,begin,weekly_hours,45,45,1,1
+about_us_begin_015,begin,ALL_FIELDS,,,1,1
+about_us_end_097,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_097,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_097,end,years_at_company,2,2,1,1
+about_us_end_097,end,weekly_hours,45,45,1,1
+about_us_end_097,end,ALL_FIELDS,,,1,1
+about_us_end_078,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_078,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_078,end,years_at_company,3,3,1,1
+about_us_end_078,end,weekly_hours,45,45,1,1
+about_us_end_078,end,ALL_FIELDS,,,1,1
+about_us_middle_057,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_057,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_057,middle,years_at_company,4,4,1,1
+about_us_middle_057,middle,weekly_hours,35,35,1,1
+about_us_middle_057,middle,ALL_FIELDS,,,1,1
+about_us_begin_042,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_042,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_042,begin,years_at_company,7,7,1,1
+about_us_begin_042,begin,weekly_hours,35,35,1,1
+about_us_begin_042,begin,ALL_FIELDS,,,1,1
+about_us_middle_056,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_056,middle,department,Engineering,Engineering,1,1
+about_us_middle_056,middle,years_at_company,4,4,1,1
+about_us_middle_056,middle,weekly_hours,35,35,1,1
+about_us_middle_056,middle,ALL_FIELDS,,,1,1
+about_us_begin_043,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_043,begin,department,Engineering,Engineering,1,1
+about_us_begin_043,begin,years_at_company,4,4,1,1
+about_us_begin_043,begin,weekly_hours,35,35,1,1
+about_us_begin_043,begin,ALL_FIELDS,,,1,1
+about_us_end_096,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_096,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_096,end,years_at_company,2,2,1,1
+about_us_end_096,end,weekly_hours,35,35,1,1
+about_us_end_096,end,ALL_FIELDS,,,1,1
+about_us_end_079,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_079,end,department,People Operations,People Operations,1,1
+about_us_end_079,end,years_at_company,6,6,1,1
+about_us_end_079,end,weekly_hours,35,35,1,1
+about_us_end_079,end,ALL_FIELDS,,,1,1
+about_us_middle_001,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_001,middle,department,,Product Analytics,0,1
+about_us_middle_001,middle,years_at_company,4,4,1,1
+about_us_middle_001,middle,weekly_hours,40,40,1,1
+about_us_middle_001,middle,ALL_FIELDS,,,0,1
+about_us_begin_014,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_014,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_014,begin,years_at_company,2,2,1,1
+about_us_begin_014,begin,weekly_hours,35,35,1,1
+about_us_begin_014,begin,ALL_FIELDS,,,1,1
+about_us_end_080,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_080,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_080,end,years_at_company,4,4,1,1
+about_us_end_080,end,weekly_hours,45,45,1,1
+about_us_end_080,end,ALL_FIELDS,,,1,1
+about_us_middle_017,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_017,middle,department,Operations,Operations,1,1
+about_us_middle_017,middle,years_at_company,5,5,1,1
+about_us_middle_017,middle,weekly_hours,40,40,1,1
+about_us_middle_017,middle,ALL_FIELDS,,,1,1
+about_us_begin_002,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_002,begin,department,Engineering,Engineering,1,1
+about_us_begin_002,begin,years_at_company,3,3,1,1
+about_us_begin_002,begin,weekly_hours,40,40,1,1
+about_us_begin_002,begin,ALL_FIELDS,,,1,1
+about_us_end_038,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_038,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_038,end,years_at_company,6,6,1,1
+about_us_end_038,end,weekly_hours,35,35,1,1
+about_us_end_038,end,ALL_FIELDS,,,1,1
+about_us_middle_040,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_040,middle,department,Operations,Operations,1,1
+about_us_middle_040,middle,years_at_company,3,3,1,1
+about_us_middle_040,middle,weekly_hours,45,45,1,1
+about_us_middle_040,middle,ALL_FIELDS,,,1,1
+about_us_begin_055,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_055,begin,department,Finance Analytics,Finance Analytics,1,1
+about_us_begin_055,begin,years_at_company,2,2,1,1
+about_us_begin_055,begin,weekly_hours,40,40,1,1
+about_us_begin_055,begin,ALL_FIELDS,,,1,1
+about_us_end_043,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_043,end,department,People Operations,People Operations,1,1
+about_us_end_043,end,years_at_company,3,3,1,1
+about_us_end_043,end,weekly_hours,35,35,1,1
+about_us_end_043,end,ALL_FIELDS,,,1,1
+about_us_end_014,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_014,end,department,People Operations,People Operations,1,1
+about_us_end_014,end,years_at_company,5,5,1,1
+about_us_end_014,end,weekly_hours,35,35,1,1
+about_us_end_014,end,ALL_FIELDS,,,1,1
+about_us_begin_079,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_079,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_079,begin,years_at_company,6,6,1,1
+about_us_begin_079,begin,weekly_hours,40,40,1,1
+about_us_begin_079,begin,ALL_FIELDS,,,1,1
+about_us_middle_083,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_083,middle,department,Operations,Operations,1,1
+about_us_middle_083,middle,years_at_company,7,7,1,1
+about_us_middle_083,middle,weekly_hours,40,40,1,1
+about_us_middle_083,middle,ALL_FIELDS,,,1,1
+about_us_begin_096,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_096,begin,department,Engineering,Engineering,1,1
+about_us_begin_096,begin,years_at_company,3,3,1,1
+about_us_begin_096,begin,weekly_hours,35,35,1,1
+about_us_begin_096,begin,ALL_FIELDS,,,1,1
+about_us_end_002,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_002,end,department,Engineering,Engineering,1,1
+about_us_end_002,end,years_at_company,7,7,1,1
+about_us_end_002,end,weekly_hours,35,35,1,1
+about_us_end_002,end,ALL_FIELDS,,,1,1
+about_us_middle_095,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_095,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_095,middle,years_at_company,7,7,1,1
+about_us_middle_095,middle,weekly_hours,40,40,1,1
+about_us_middle_095,middle,ALL_FIELDS,,,1,1
+about_us_begin_080,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_080,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_080,begin,years_at_company,5,5,1,1
+about_us_begin_080,begin,weekly_hours,35,35,1,1
+about_us_begin_080,begin,ALL_FIELDS,,,1,1
+about_us_end_055,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_055,end,department,Operations,Operations,1,1
+about_us_end_055,end,years_at_company,6,6,1,1
+about_us_end_055,end,weekly_hours,40,40,1,1
+about_us_end_055,end,ALL_FIELDS,,,1,1
+about_us_begin_038,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_038,begin,department,Operations,Operations,1,1
+about_us_begin_038,begin,years_at_company,6,6,1,1
+about_us_begin_038,begin,weekly_hours,40,40,1,1
+about_us_begin_038,begin,ALL_FIELDS,,,1,1
+about_us_end_022,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_022,end,department,Operations,Operations,1,1
+about_us_end_022,end,years_at_company,2,2,1,1
+about_us_end_022,end,weekly_hours,35,35,1,1
+about_us_end_022,end,ALL_FIELDS,,,1,1
+about_us_begin_018,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_018,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_018,begin,years_at_company,5,5,1,1
+about_us_begin_018,begin,weekly_hours,40,40,1,1
+about_us_begin_018,begin,ALL_FIELDS,,,1,1
+about_us_end_075,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_075,end,department,Data Platform,Data Platform,1,1
+about_us_end_075,end,years_at_company,4,4,1,1
+about_us_end_075,end,weekly_hours,45,45,1,1
+about_us_end_075,end,ALL_FIELDS,,,1,1
+about_us_end_063,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_063,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_063,end,years_at_company,6,6,1,1
+about_us_end_063,end,weekly_hours,35,35,1,1
+about_us_end_063,end,ALL_FIELDS,,,1,1
+about_us_begin_059,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_059,begin,department,Finance Analytics,Finance Analytics,1,1
+about_us_begin_059,begin,years_at_company,7,7,1,1
+about_us_begin_059,begin,weekly_hours,35,35,1,1
+about_us_begin_059,begin,ALL_FIELDS,,,1,1
+about_us_end_034,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_034,end,department,People Operations,People Operations,1,1
+about_us_end_034,end,years_at_company,6,6,1,1
+about_us_end_034,end,weekly_hours,35,35,1,1
+about_us_end_034,end,ALL_FIELDS,,,1,1
+about_us_begin_022,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_022,begin,department,Engineering,Engineering,1,1
+about_us_begin_022,begin,years_at_company,3,3,1,1
+about_us_begin_022,begin,weekly_hours,35,35,1,1
+about_us_begin_022,begin,ALL_FIELDS,,,1,1
+about_us_middle_037,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_037,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_037,middle,years_at_company,3,3,1,1
+about_us_middle_037,middle,weekly_hours,40,40,1,1
+about_us_middle_037,middle,ALL_FIELDS,,,1,1
+about_us_begin_075,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_075,begin,department,People Operations,People Operations,1,1
+about_us_begin_075,begin,years_at_company,6,6,1,1
+about_us_begin_075,begin,weekly_hours,45,45,1,1
+about_us_begin_075,begin,ALL_FIELDS,,,1,1
+about_us_middle_060,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_060,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_060,middle,years_at_company,4,4,1,1
+about_us_middle_060,middle,weekly_hours,35,35,1,1
+about_us_middle_060,middle,ALL_FIELDS,,,1,1
+about_us_end_018,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_018,end,department,People Operations,People Operations,1,1
+about_us_end_018,end,years_at_company,4,4,1,1
+about_us_end_018,end,weekly_hours,35,35,1,1
+about_us_end_018,end,ALL_FIELDS,,,1,1
+about_us_begin_063,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_063,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_063,begin,years_at_company,2,2,1,1
+about_us_begin_063,begin,weekly_hours,40,40,1,1
+about_us_begin_063,begin,ALL_FIELDS,,,1,1
+about_us_middle_099,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_099,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_099,middle,years_at_company,2,2,1,1
+about_us_middle_099,middle,weekly_hours,45,45,1,1
+about_us_middle_099,middle,ALL_FIELDS,,,1,1
+about_us_middle_076,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_076,middle,department,People Operations,People Operations,1,1
+about_us_middle_076,middle,years_at_company,2,2,1,1
+about_us_middle_076,middle,weekly_hours,35,35,1,1
+about_us_middle_076,middle,ALL_FIELDS,,,1,1
+about_us_begin_034,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_034,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_034,begin,years_at_company,5,5,1,1
+about_us_begin_034,begin,weekly_hours,45,45,1,1
+about_us_begin_034,begin,ALL_FIELDS,,,1,1
+about_us_middle_021,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_021,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_021,middle,years_at_company,3,3,1,1
+about_us_middle_021,middle,weekly_hours,45,45,1,1
+about_us_middle_021,middle,ALL_FIELDS,,,1,1
+about_us_end_059,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_059,end,department,Engineering,Engineering,1,1
+about_us_end_059,end,years_at_company,4,4,1,1
+about_us_end_059,end,weekly_hours,45,45,1,1
+about_us_end_059,end,ALL_FIELDS,,,1,1
+about_us_end_052,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_052,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_052,end,years_at_company,3,3,1,1
+about_us_end_052,end,weekly_hours,35,35,1,1
+about_us_end_052,end,ALL_FIELDS,,,1,1
+about_us_middle_092,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_092,middle,department,Business Intelligence,Business Intelligence,1,1
+about_us_middle_092,middle,years_at_company,4,4,1,1
+about_us_middle_092,middle,weekly_hours,35,35,1,1
+about_us_middle_092,middle,ALL_FIELDS,,,1,1
+about_us_begin_068,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_068,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_068,begin,years_at_company,3,3,1,1
+about_us_begin_068,begin,weekly_hours,45,45,1,1
+about_us_begin_068,begin,ALL_FIELDS,,,1,1
+about_us_begin_087,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_087,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_087,begin,years_at_company,5,5,1,1
+about_us_begin_087,begin,weekly_hours,35,35,1,1
+about_us_begin_087,begin,ALL_FIELDS,,,1,1
+about_us_end_005,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_005,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_005,end,years_at_company,4,4,1,1
+about_us_end_005,end,weekly_hours,35,35,1,1
+about_us_end_005,end,ALL_FIELDS,,,1,1
+about_us_middle_084,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_084,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_084,middle,years_at_company,3,3,1,1
+about_us_middle_084,middle,weekly_hours,40,40,1,1
+about_us_middle_084,middle,ALL_FIELDS,,,1,1
+about_us_begin_091,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_091,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_091,begin,years_at_company,2,2,1,1
+about_us_begin_091,begin,weekly_hours,35,35,1,1
+about_us_begin_091,begin,ALL_FIELDS,,,1,1
+about_us_end_013,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_013,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_013,end,years_at_company,6,6,1,1
+about_us_end_013,end,weekly_hours,40,40,1,1
+about_us_end_013,end,ALL_FIELDS,,,1,1
+about_us_begin_029,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_029,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_029,begin,years_at_company,5,5,1,1
+about_us_begin_029,begin,weekly_hours,45,45,1,1
+about_us_begin_029,begin,ALL_FIELDS,,,1,1
+about_us_end_044,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_044,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_044,end,years_at_company,5,5,1,1
+about_us_end_044,end,weekly_hours,45,45,1,1
+about_us_end_044,end,ALL_FIELDS,,,1,1
+about_us_middle_047,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_047,middle,department,People Operations,People Operations,1,1
+about_us_middle_047,middle,years_at_company,5,5,1,1
+about_us_middle_047,middle,weekly_hours,40,40,1,1
+about_us_middle_047,middle,ALL_FIELDS,,,1,1
+about_us_begin_052,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_052,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_052,begin,years_at_company,3,3,1,1
+about_us_begin_052,begin,weekly_hours,35,35,1,1
+about_us_begin_052,begin,ALL_FIELDS,,,1,1
+about_us_middle_010,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_010,middle,department,People Operations,People Operations,1,1
+about_us_middle_010,middle,years_at_company,7,7,1,1
+about_us_middle_010,middle,weekly_hours,40,40,1,1
+about_us_middle_010,middle,ALL_FIELDS,,,1,1
+about_us_begin_005,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_005,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_005,begin,years_at_company,3,3,1,1
+about_us_begin_005,begin,weekly_hours,45,45,1,1
+about_us_begin_005,begin,ALL_FIELDS,,,1,1
+about_us_end_087,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_087,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_087,end,years_at_company,4,4,1,1
+about_us_end_087,end,weekly_hours,45,45,1,1
+about_us_end_087,end,ALL_FIELDS,,,1,1
+about_us_end_068,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_068,end,department,People Operations,People Operations,1,1
+about_us_end_068,end,years_at_company,2,2,1,1
+about_us_end_068,end,weekly_hours,45,45,1,1
+about_us_end_068,end,ALL_FIELDS,,,1,1
+about_us_middle_006,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_006,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_006,middle,years_at_company,7,7,1,1
+about_us_middle_006,middle,weekly_hours,45,45,1,1
+about_us_middle_006,middle,ALL_FIELDS,,,1,1
+about_us_begin_013,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_013,begin,department,Operations,Operations,1,1
+about_us_begin_013,begin,years_at_company,5,5,1,1
+about_us_begin_013,begin,weekly_hours,40,40,1,1
+about_us_begin_013,begin,ALL_FIELDS,,,1,1
+about_us_end_091,end,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_end_091,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_091,end,years_at_company,7,7,1,1
+about_us_end_091,end,weekly_hours,40,40,1,1
+about_us_end_091,end,ALL_FIELDS,,,1,1
+about_us_middle_051,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_051,middle,department,People Operations,People Operations,1,1
+about_us_middle_051,middle,years_at_company,3,3,1,1
+about_us_middle_051,middle,weekly_hours,40,40,1,1
+about_us_middle_051,middle,ALL_FIELDS,,,1,1
+about_us_begin_044,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_044,begin,department,Operations,Operations,1,1
+about_us_begin_044,begin,years_at_company,5,5,1,1
+about_us_begin_044,begin,weekly_hours,45,45,1,1
+about_us_begin_044,begin,ALL_FIELDS,,,1,1
+about_us_end_029,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_029,end,department,Operations,Operations,1,1
+about_us_end_029,end,years_at_company,3,3,1,1
+about_us_end_029,end,weekly_hours,40,40,1,1
+about_us_end_029,end,ALL_FIELDS,,,1,1
+about_us_begin_033,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_033,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_033,begin,years_at_company,3,3,1,1
+about_us_begin_033,begin,weekly_hours,35,35,1,1
+about_us_begin_033,begin,ALL_FIELDS,,,1,1
+about_us_middle_026,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_026,middle,department,Product Analytics,Product Analytics,1,1
+about_us_middle_026,middle,years_at_company,6,6,1,1
+about_us_middle_026,middle,weekly_hours,35,35,1,1
+about_us_middle_026,middle,ALL_FIELDS,,,1,1
+about_us_end_009,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_009,end,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_end_009,end,years_at_company,4,4,1,1
+about_us_end_009,end,weekly_hours,40,40,1,1
+about_us_end_009,end,ALL_FIELDS,,,1,1
+about_us_begin_064,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_064,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_064,begin,years_at_company,3,3,1,1
+about_us_begin_064,begin,weekly_hours,40,40,1,1
+about_us_begin_064,begin,ALL_FIELDS,,,1,1
+about_us_middle_071,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_071,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_071,middle,years_at_company,2,2,1,1
+about_us_middle_071,middle,weekly_hours,35,35,1,1
+about_us_middle_071,middle,ALL_FIELDS,,,1,1
+about_us_middle_088,middle,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_middle_088,middle,department,People Operations,People Operations,1,1
+about_us_middle_088,middle,years_at_company,5,5,1,1
+about_us_middle_088,middle,weekly_hours,40,40,1,1
+about_us_middle_088,middle,ALL_FIELDS,,,1,1
+about_us_begin_072,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_072,begin,department,People Operations,People Operations,1,1
+about_us_begin_072,begin,years_at_company,2,2,1,1
+about_us_begin_072,begin,weekly_hours,35,35,1,1
+about_us_begin_072,begin,ALL_FIELDS,,,1,1
+about_us_middle_067,middle,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_middle_067,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_067,middle,years_at_company,6,6,1,1
+about_us_middle_067,middle,weekly_hours,40,40,1,1
+about_us_middle_067,middle,ALL_FIELDS,,,1,1
+about_us_end_048,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_048,end,department,Data Platform,Data Platform,1,1
+about_us_end_048,end,years_at_company,4,4,1,1
+about_us_end_048,end,weekly_hours,45,45,1,1
+about_us_end_048,end,ALL_FIELDS,,,1,1
+about_us_begin_025,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_025,begin,department,Operations,Operations,1,1
+about_us_begin_025,begin,years_at_company,5,5,1,1
+about_us_begin_025,begin,weekly_hours,40,40,1,1
+about_us_begin_025,begin,ALL_FIELDS,,,1,1
+about_us_middle_030,middle,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_middle_030,middle,department,Engineering,Engineering,1,1
+about_us_middle_030,middle,years_at_company,3,3,1,1
+about_us_middle_030,middle,weekly_hours,45,45,1,1
+about_us_middle_030,middle,ALL_FIELDS,,,1,1
+about_us_end_033,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_033,end,department,People Operations,People Operations,1,1
+about_us_end_033,end,years_at_company,6,6,1,1
+about_us_end_033,end,weekly_hours,45,45,1,1
+about_us_end_033,end,ALL_FIELDS,,,1,1
+about_us_end_064,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_064,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_064,end,years_at_company,6,6,1,1
+about_us_end_064,end,weekly_hours,45,45,1,1
+about_us_end_064,end,ALL_FIELDS,,,1,1
+about_us_begin_009,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_009,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_009,begin,years_at_company,7,7,1,1
+about_us_begin_009,begin,weekly_hours,45,45,1,1
+about_us_begin_009,begin,ALL_FIELDS,,,1,1
+about_us_end_072,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_072,end,department,Operations,Operations,1,1
+about_us_end_072,end,years_at_company,4,4,1,1
+about_us_end_072,end,weekly_hours,35,35,1,1
+about_us_end_072,end,ALL_FIELDS,,,1,1
+about_us_end_025,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_025,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_025,end,years_at_company,4,4,1,1
+about_us_end_025,end,weekly_hours,40,40,1,1
+about_us_end_025,end,ALL_FIELDS,,,1,1
+about_us_begin_048,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_048,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_048,begin,years_at_company,6,6,1,1
+about_us_begin_048,begin,weekly_hours,40,40,1,1
+about_us_begin_048,begin,ALL_FIELDS,,,1,1
+about_us_begin_049,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_049,begin,department,People Operations,People Operations,1,1
+about_us_begin_049,begin,years_at_company,5,5,1,1
+about_us_begin_049,begin,weekly_hours,45,45,1,1
+about_us_begin_049,begin,ALL_FIELDS,,,1,1
+about_us_end_024,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_024,end,department,Data Platform,Data Platform,1,1
+about_us_end_024,end,years_at_company,5,5,1,1
+about_us_end_024,end,weekly_hours,40,40,1,1
+about_us_end_024,end,ALL_FIELDS,,,1,1
+about_us_end_073,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_073,end,department,Operations,Operations,1,1
+about_us_end_073,end,years_at_company,3,3,1,1
+about_us_end_073,end,weekly_hours,40,40,1,1
+about_us_end_073,end,ALL_FIELDS,,,1,1
+about_us_begin_008,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_008,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_008,begin,years_at_company,3,3,1,1
+about_us_begin_008,begin,weekly_hours,40,40,1,1
+about_us_begin_008,begin,ALL_FIELDS,,,1,1
+about_us_end_065,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_065,end,department,Engineering,Engineering,1,1
+about_us_end_065,end,years_at_company,2,2,1,1
+about_us_end_065,end,weekly_hours,40,40,1,1
+about_us_end_065,end,ALL_FIELDS,,,1,1
+about_us_end_032,end,job_title,Product Manager,Product Manager,1,1
+about_us_end_032,end,department,People Operations,People Operations,1,1
+about_us_end_032,end,years_at_company,4,4,1,1
+about_us_end_032,end,weekly_hours,40,40,1,1
+about_us_end_032,end,ALL_FIELDS,,,1,1
+about_us_begin_024,begin,job_title,Analytics Engineer,Analytics Engineer,1,1
+about_us_begin_024,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_024,begin,years_at_company,4,4,1,1
+about_us_begin_024,begin,weekly_hours,35,35,1,1
+about_us_begin_024,begin,ALL_FIELDS,,,1,1
+about_us_middle_031,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_031,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_031,middle,years_at_company,3,3,1,1
+about_us_middle_031,middle,weekly_hours,35,35,1,1
+about_us_middle_031,middle,ALL_FIELDS,,,1,1
+about_us_end_049,end,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_end_049,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_049,end,years_at_company,2,2,1,1
+about_us_end_049,end,weekly_hours,45,45,1,1
+about_us_end_049,end,ALL_FIELDS,,,1,1
+about_us_middle_089,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_089,middle,department,Operations,Operations,1,1
+about_us_middle_089,middle,years_at_company,3,3,1,1
+about_us_middle_089,middle,weekly_hours,35,35,1,1
+about_us_middle_089,middle,ALL_FIELDS,,,1,1
+about_us_begin_073,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_073,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_073,begin,years_at_company,6,6,1,1
+about_us_begin_073,begin,weekly_hours,45,45,1,1
+about_us_begin_073,begin,ALL_FIELDS,,,1,1
+about_us_middle_066,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_066,middle,department,Operations,Operations,1,1
+about_us_middle_066,middle,years_at_company,2,2,1,1
+about_us_middle_066,middle,weekly_hours,45,45,1,1
+about_us_middle_066,middle,ALL_FIELDS,,,1,1
+about_us_begin_065,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_065,begin,department,Engineering,Engineering,1,1
+about_us_begin_065,begin,years_at_company,4,4,1,1
+about_us_begin_065,begin,weekly_hours,45,45,1,1
+about_us_begin_065,begin,ALL_FIELDS,,,1,1
+about_us_middle_070,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_070,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_070,middle,years_at_company,2,2,1,1
+about_us_middle_070,middle,weekly_hours,35,35,1,1
+about_us_middle_070,middle,ALL_FIELDS,,,1,1
+about_us_end_008,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_008,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_008,end,years_at_company,2,2,1,1
+about_us_end_008,end,weekly_hours,40,40,1,1
+about_us_end_008,end,ALL_FIELDS,,,1,1
+about_us_begin_032,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_032,begin,department,Product Analytics,Product Analytics,1,1
+about_us_begin_032,begin,years_at_company,5,5,1,1
+about_us_begin_032,begin,weekly_hours,35,35,1,1
+about_us_begin_032,begin,ALL_FIELDS,,,1,1
+about_us_middle_027,middle,job_title,Data Analyst,Data Analyst,1,1
+about_us_middle_027,middle,department,Data Platform,Data Platform,1,1
+about_us_middle_027,middle,years_at_company,4,4,1,1
+about_us_middle_027,middle,weekly_hours,40,40,1,1
+about_us_middle_027,middle,ALL_FIELDS,,,1,1
+about_us_end_028,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_028,end,department,Data Platform,Data Platform,1,1
+about_us_end_028,end,years_at_company,5,5,1,1
+about_us_end_028,end,weekly_hours,45,45,1,1
+about_us_end_028,end,ALL_FIELDS,,,1,1
+about_us_middle_050,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_050,middle,department,,Business Intelligence,0,1
+about_us_middle_050,middle,years_at_company,6,6,1,1
+about_us_middle_050,middle,weekly_hours,35,35,1,1
+about_us_middle_050,middle,ALL_FIELDS,,,0,1
+about_us_begin_100,begin,job_title,Data Scientist,Data Scientist,1,1
+about_us_begin_100,begin,department,Engineering,Engineering,1,1
+about_us_begin_100,begin,years_at_company,7,7,1,1
+about_us_begin_100,begin,weekly_hours,45,45,1,1
+about_us_begin_100,begin,ALL_FIELDS,,,1,1
+about_us_begin_045,begin,job_title,Business Analyst,Business Analyst,1,1
+about_us_begin_045,begin,department,Operations,Operations,1,1
+about_us_begin_045,begin,years_at_company,3,3,1,1
+about_us_begin_045,begin,weekly_hours,40,40,1,1
+about_us_begin_045,begin,ALL_FIELDS,,,1,1
+about_us_end_090,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_090,end,department,Operations,Operations,1,1
+about_us_end_090,end,years_at_company,7,7,1,1
+about_us_end_090,end,weekly_hours,35,35,1,1
+about_us_end_090,end,ALL_FIELDS,,,1,1
+about_us_middle_007,middle,job_title,Data Scientist,Data Scientist,1,1
+about_us_middle_007,middle,department,People Operations,People Operations,1,1
+about_us_middle_007,middle,years_at_company,7,7,1,1
+about_us_middle_007,middle,weekly_hours,40,40,1,1
+about_us_middle_007,middle,ALL_FIELDS,,,1,1
+about_us_begin_012,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_012,begin,department,People Operations,People Operations,1,1
+about_us_begin_012,begin,years_at_company,5,5,1,1
+about_us_begin_012,begin,weekly_hours,35,35,1,1
+about_us_begin_012,begin,ALL_FIELDS,,,1,1
+about_us_end_086,end,job_title,Software Engineer,Software Engineer,1,1
+about_us_end_086,end,department,Product Analytics,Product Analytics,1,1
+about_us_end_086,end,years_at_company,2,2,1,1
+about_us_end_086,end,weekly_hours,40,40,1,1
+about_us_end_086,end,ALL_FIELDS,,,1,1
+about_us_end_069,end,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_end_069,end,department,Finance Analytics,Finance Analytics,1,1
+about_us_end_069,end,years_at_company,7,7,1,1
+about_us_end_069,end,weekly_hours,40,40,1,1
+about_us_end_069,end,ALL_FIELDS,,,1,1
+about_us_middle_011,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_011,middle,department,Finance Analytics,Finance Analytics,1,1
+about_us_middle_011,middle,years_at_company,3,3,1,1
+about_us_middle_011,middle,weekly_hours,40,40,1,1
+about_us_middle_011,middle,ALL_FIELDS,,,1,1
+about_us_begin_004,begin,job_title,Senior Data Scientist,Senior Data Scientist,1,1
+about_us_begin_004,begin,department,People Operations,People Operations,1,1
+about_us_begin_004,begin,years_at_company,4,4,1,1
+about_us_begin_004,begin,weekly_hours,40,40,1,1
+about_us_begin_004,begin,ALL_FIELDS,,,1,1
+about_us_middle_046,middle,job_title,Product Manager,Product Manager,1,1
+about_us_middle_046,middle,department,Engineering,Engineering,1,1
+about_us_middle_046,middle,years_at_company,3,3,1,1
+about_us_middle_046,middle,weekly_hours,35,35,1,1
+about_us_middle_046,middle,ALL_FIELDS,,,1,1
+about_us_begin_053,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_053,begin,department,Data Platform,Data Platform,1,1
+about_us_begin_053,begin,years_at_company,3,3,1,1
+about_us_begin_053,begin,weekly_hours,45,45,1,1
+about_us_begin_053,begin,ALL_FIELDS,,,1,1
+about_us_end_045,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_045,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_045,end,years_at_company,4,4,1,1
+about_us_end_045,end,weekly_hours,35,35,1,1
+about_us_end_045,end,ALL_FIELDS,,,1,1
+about_us_end_100,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_100,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_100,end,years_at_company,4,4,1,1
+about_us_end_100,end,weekly_hours,35,35,1,1
+about_us_end_100,end,ALL_FIELDS,,,1,1
+about_us_begin_028,begin,job_title,Software Engineer,Software Engineer,1,1
+about_us_begin_028,begin,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_begin_028,begin,years_at_company,4,4,1,1
+about_us_begin_028,begin,weekly_hours,45,45,1,1
+about_us_begin_028,begin,ALL_FIELDS,,,1,1
+about_us_end_012,end,job_title,Business Analyst,Business Analyst,1,1
+about_us_end_012,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_012,end,years_at_company,4,4,1,1
+about_us_end_012,end,weekly_hours,40,40,1,1
+about_us_end_012,end,ALL_FIELDS,,,1,1
+about_us_middle_085,middle,job_title,Business Analyst,Business Analyst,1,1
+about_us_middle_085,middle,department,Engineering,Engineering,1,1
+about_us_middle_085,middle,years_at_company,4,4,1,1
+about_us_middle_085,middle,weekly_hours,40,40,1,1
+about_us_middle_085,middle,ALL_FIELDS,,,1,1
+about_us_begin_090,begin,job_title,Data Analyst,Data Analyst,1,1
+about_us_begin_090,begin,department,Operations,Operations,1,1
+about_us_begin_090,begin,years_at_company,7,7,1,1
+about_us_begin_090,begin,weekly_hours,35,35,1,1
+about_us_begin_090,begin,ALL_FIELDS,,,1,1
+about_us_end_004,end,job_title,Data Analyst,Data Analyst,1,1
+about_us_end_004,end,department,Business Intelligence,Business Intelligence,1,1
+about_us_end_004,end,years_at_company,7,7,1,1
+about_us_end_004,end,weekly_hours,35,35,1,1
+about_us_end_004,end,ALL_FIELDS,,,1,1
+about_us_middle_093,middle,job_title,Software Engineer,Software Engineer,1,1
+about_us_middle_093,middle,department,Marketing Analytics,Marketing Analytics,1,1
+about_us_middle_093,middle,years_at_company,2,2,1,1
+about_us_middle_093,middle,weekly_hours,35,35,1,1
+about_us_middle_093,middle,ALL_FIELDS,,,1,1
+about_us_begin_069,begin,job_title,Senior Data Analyst,Senior Data Analyst,1,1
+about_us_begin_069,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_069,begin,years_at_company,3,3,1,1
+about_us_begin_069,begin,weekly_hours,45,45,1,1
+about_us_begin_069,begin,ALL_FIELDS,,,1,1
+about_us_begin_086,begin,job_title,Product Manager,Product Manager,1,1
+about_us_begin_086,begin,department,Business Intelligence,Business Intelligence,1,1
+about_us_begin_086,begin,years_at_company,6,6,1,1
+about_us_begin_086,begin,weekly_hours,45,45,1,1
+about_us_begin_086,begin,ALL_FIELDS,,,1,1
+about_us_end_053,end,job_title,Data Scientist,Data Scientist,1,1
+about_us_end_053,end,department,People Operations,People Operations,1,1
+about_us_end_053,end,years_at_company,7,7,1,1
+about_us_end_053,end,weekly_hours,45,45,1,1
+about_us_end_053,end,ALL_FIELDS,,,1,1
