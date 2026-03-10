@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_052",
+  "target_name": "Leo Wang",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Senior Data Analyst\",\n  \"department\": \"Business Intelligence\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Senior Data Analyst",
+    "department": "Business Intelligence",
+    "years_at_company": 3,
+    "weekly_hours": 35
+  }
+}

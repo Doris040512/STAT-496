@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_037",
+  "target_name": "Ava Nair",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Senior Data Scientist\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 40\n}",
+  "parsed": {
+    "job_title": "Senior Data Scientist",
+    "department": "People Operations",
+    "years_at_company": 3,
+    "weekly_hours": 40
+  }
+}

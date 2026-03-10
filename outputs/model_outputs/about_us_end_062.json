@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_end_062",
+  "target_name": "Priya Brown",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Business Analyst\",\n  \"department\": \"Data Platform\",\n  \"years_at_company\": 2,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

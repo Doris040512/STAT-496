@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_middle_005",
+  "target_name": "Ethan Miller",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Data Analyst\",\n  \"department\": \"Marketing Analytics\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

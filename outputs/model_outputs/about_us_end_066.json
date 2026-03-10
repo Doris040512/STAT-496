@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_066",
+  "target_name": "Diego Kim",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Analytics Engineer\",\n  \"department\": \"Business Intelligence\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 40\n}",
+  "parsed": {
+    "job_title": "Analytics Engineer",
+    "department": "Business Intelligence",
+    "years_at_company": 6,
+    "weekly_hours": 40
+  }
+}

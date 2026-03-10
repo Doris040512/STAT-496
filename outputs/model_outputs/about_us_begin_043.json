@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_043",
+  "target_name": "Amir Wang",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Analyst\",\n  \"department\": \"Engineering\",\n  \"years_at_company\": 4,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Data Analyst",
+    "department": "Engineering",
+    "years_at_company": 4,
+    "weekly_hours": 35
+  }
+}

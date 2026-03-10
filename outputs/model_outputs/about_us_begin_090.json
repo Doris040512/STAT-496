@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_begin_090",
+  "target_name": "Mina Wang",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Data Analyst\",\n  \"department\": \"Operations\",\n  \"years_at_company\": 7,\n  \"weekly_hours\": 35\n}\n```",
+  "parsed": null
+}

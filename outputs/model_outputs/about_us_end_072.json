@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_072",
+  "target_name": "Luis Garcia",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Business Analyst\",\n  \"department\": \"Operations\",\n  \"years_at_company\": 4,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Business Analyst",
+    "department": "Operations",
+    "years_at_company": 4,
+    "weekly_hours": 35
+  }
+}

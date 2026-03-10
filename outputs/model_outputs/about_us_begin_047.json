@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_begin_047",
+  "target_name": "Ravi Chen",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Analytics Engineer\",\n  \"department\": \"Product Analytics\",\n  \"years_at_company\": 5,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

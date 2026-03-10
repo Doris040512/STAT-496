@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_middle_091",
+  "target_name": "Omar Nair",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Senior Data Scientist\",\n  \"department\": \"Data Platform\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

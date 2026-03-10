@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_082",
+  "target_name": "Marco Martinez",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Analyst\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 2,\n  \"weekly_hours\": 45\n}",
+  "parsed": {
+    "job_title": "Data Analyst",
+    "department": "People Operations",
+    "years_at_company": 2,
+    "weekly_hours": 45
+  }
+}

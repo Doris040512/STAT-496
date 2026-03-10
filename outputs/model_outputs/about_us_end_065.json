@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_end_065",
+  "target_name": "Ethan Lopez",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Data Analyst\",\n  \"department\": \"Engineering\",\n  \"years_at_company\": 2,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

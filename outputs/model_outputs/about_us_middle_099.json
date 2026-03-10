@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_middle_099",
+  "target_name": "Amir Garcia",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Product Manager\",\n  \"department\": \"Marketing Analytics\",\n  \"years_at_company\": 2,\n  \"weekly_hours\": 45\n}\n```",
+  "parsed": null
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_047",
+  "target_name": "Alex Nguyen",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Analytics Engineer\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 4,\n  \"weekly_hours\": 45\n}",
+  "parsed": {
+    "job_title": "Analytics Engineer",
+    "department": "People Operations",
+    "years_at_company": 4,
+    "weekly_hours": 45
+  }
+}

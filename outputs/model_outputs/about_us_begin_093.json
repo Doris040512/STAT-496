@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_093",
+  "target_name": "Luis Davis",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Software Engineer\",\n  \"department\": \"Business Intelligence\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 45\n}",
+  "parsed": {
+    "job_title": "Software Engineer",
+    "department": "Business Intelligence",
+    "years_at_company": 6,
+    "weekly_hours": 45
+  }
+}

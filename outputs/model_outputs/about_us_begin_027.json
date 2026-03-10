@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_begin_027",
+  "target_name": "Luis Martinez",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Data Scientist\",\n  \"department\": \"Product Analytics\",\n  \"years_at_company\": 5,\n  \"weekly_hours\": 45\n}\n```",
+  "parsed": null
+}

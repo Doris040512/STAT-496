@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_079",
+  "target_name": "Alex Patel",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Analyst\",\n  \"department\": \"Product Analytics\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 40\n}",
+  "parsed": {
+    "job_title": "Data Analyst",
+    "department": "Product Analytics",
+    "years_at_company": 6,
+    "weekly_hours": 40
+  }
+}

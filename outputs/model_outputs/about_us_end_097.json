@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_097",
+  "target_name": "Nina Martinez",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Business Analyst\",\n  \"department\": \"Product Analytics\",\n  \"years_at_company\": 2,\n  \"weekly_hours\": 45\n}",
+  "parsed": {
+    "job_title": "Business Analyst",
+    "department": "Product Analytics",
+    "years_at_company": 2,
+    "weekly_hours": 45
+  }
+}

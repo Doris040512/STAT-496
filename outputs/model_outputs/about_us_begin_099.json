@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_099",
+  "target_name": "Sophia Davis",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Analyst\",\n  \"department\": \"Product Analytics\",\n  \"years_at_company\": 2,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Data Analyst",
+    "department": "Product Analytics",
+    "years_at_company": 2,
+    "weekly_hours": 35
+  }
+}

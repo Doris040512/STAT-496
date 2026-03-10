@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_068",
+  "target_name": "Marco Johnson",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Senior Data Scientist\",\n  \"department\": \"Business Intelligence\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 45\n}",
+  "parsed": {
+    "job_title": "Senior Data Scientist",
+    "department": "Business Intelligence",
+    "years_at_company": 3,
+    "weekly_hours": 45
+  }
+}

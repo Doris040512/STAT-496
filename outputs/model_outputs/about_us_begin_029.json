@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_029",
+  "target_name": "Sara Davis",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Scientist\",\n  \"department\": \"Data Platform\",\n  \"years_at_company\": 5,\n  \"weekly_hours\": 45\n}",
+  "parsed": {
+    "job_title": "Data Scientist",
+    "department": "Data Platform",
+    "years_at_company": 5,
+    "weekly_hours": 45
+  }
+}

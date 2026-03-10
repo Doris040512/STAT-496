@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_032",
+  "target_name": "Diego Brown",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Product Manager\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 4,\n  \"weekly_hours\": 40\n}",
+  "parsed": {
+    "job_title": "Product Manager",
+    "department": "People Operations",
+    "years_at_company": 4,
+    "weekly_hours": 40
+  }
+}

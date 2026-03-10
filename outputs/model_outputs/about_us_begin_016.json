@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_016",
+  "target_name": "Diego Wang",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Scientist\",\n  \"department\": \"Data Platform\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 40\n}",
+  "parsed": {
+    "job_title": "Data Scientist",
+    "department": "Data Platform",
+    "years_at_company": 3,
+    "weekly_hours": 40
+  }
+}

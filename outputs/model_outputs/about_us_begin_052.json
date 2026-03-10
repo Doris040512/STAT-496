@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_begin_052",
+  "target_name": "Diego Thomas",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Scientist\",\n  \"department\": \"Marketing Analytics\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Data Scientist",
+    "department": "Marketing Analytics",
+    "years_at_company": 3,
+    "weekly_hours": 35
+  }
+}

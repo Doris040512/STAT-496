@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_begin_045",
+  "target_name": "Leo Silva",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Business Analyst\",\n  \"department\": \"Operations\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

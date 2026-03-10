@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_middle_059",
+  "target_name": "Nina Miller",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Software Engineer\",\n  \"department\": \"Business Intelligence\",\n  \"years_at_company\": 7,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Software Engineer",
+    "department": "Business Intelligence",
+    "years_at_company": 7,
+    "weekly_hours": 35
+  }
+}

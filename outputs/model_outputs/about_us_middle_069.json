@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_middle_069",
+  "target_name": "Mei Taylor",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Business Analyst\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 35\n}\n```",
+  "parsed": null
+}

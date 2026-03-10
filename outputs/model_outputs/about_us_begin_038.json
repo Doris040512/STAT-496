@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_begin_038",
+  "target_name": "Ethan Lopez",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Senior Data Scientist\",\n  \"department\": \"Operations\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

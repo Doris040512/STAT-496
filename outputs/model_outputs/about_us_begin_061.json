@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_begin_061",
+  "target_name": "Noah Lopez",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Software Engineer\",\n  \"department\": \"Product Analytics\",\n  \"years_at_company\": 4,\n  \"weekly_hours\": 45\n}\n```",
+  "parsed": null
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_middle_007",
+  "target_name": "Sara Nair",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Scientist\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 7,\n  \"weekly_hours\": 40\n}",
+  "parsed": {
+    "job_title": "Data Scientist",
+    "department": "People Operations",
+    "years_at_company": 7,
+    "weekly_hours": 40
+  }
+}

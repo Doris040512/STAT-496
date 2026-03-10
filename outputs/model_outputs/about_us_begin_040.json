@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_begin_040",
+  "target_name": "Marco Anderson",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Business Analyst\",\n  \"department\": \"Marketing Analytics\",\n  \"years_at_company\": 7,\n  \"weekly_hours\": 35\n}\n```",
+  "parsed": null
+}

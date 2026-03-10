@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_058",
+  "target_name": "Sophia Nguyen",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Data Scientist\",\n  \"department\": \"Engineering\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 45\n}",
+  "parsed": {
+    "job_title": "Data Scientist",
+    "department": "Engineering",
+    "years_at_company": 6,
+    "weekly_hours": 45
+  }
+}

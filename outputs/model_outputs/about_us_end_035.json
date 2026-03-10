@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_035",
+  "target_name": "Luis Thomas",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Senior Data Scientist\",\n  \"department\": \"Product Analytics\",\n  \"years_at_company\": 5,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Senior Data Scientist",
+    "department": "Product Analytics",
+    "years_at_company": 5,
+    "weekly_hours": 35
+  }
+}

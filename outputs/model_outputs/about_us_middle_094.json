@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_middle_094",
+  "target_name": "Noah Miller",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Software Engineer\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}

@@ -1,0 +1,12 @@
+{
+  "doc_id": "about_us_end_034",
+  "target_name": "Mei Brown",
+  "model": "gpt-4o-mini",
+  "_raw": "{\n  \"job_title\": \"Software Engineer\",\n  \"department\": \"People Operations\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 35\n}",
+  "parsed": {
+    "job_title": "Software Engineer",
+    "department": "People Operations",
+    "years_at_company": 6,
+    "weekly_hours": 35
+  }
+}

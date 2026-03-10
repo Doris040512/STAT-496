@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_middle_040",
+  "target_name": "Alex Wang",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Senior Data Scientist\",\n  \"department\": \"Operations\",\n  \"years_at_company\": 3,\n  \"weekly_hours\": 45\n}\n```",
+  "parsed": null
+}

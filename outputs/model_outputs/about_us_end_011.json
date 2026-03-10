@@ -1,0 +1,7 @@
+{
+  "doc_id": "about_us_end_011",
+  "target_name": "Omar Jackson",
+  "model": "gpt-4o-mini",
+  "_raw": "```json\n{\n  \"job_title\": \"Data Scientist\",\n  \"department\": \"Marketing Analytics\",\n  \"years_at_company\": 6,\n  \"weekly_hours\": 40\n}\n```",
+  "parsed": null
+}
