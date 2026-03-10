@@ -1,0 +1,300 @@
+{"doc_id": "about_us_begin_001", "target_name": "Jasmine Chen", "ground_truth": {"job_title": "Data Scientist", "department": "Operations", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_002", "target_name": "Mei Lopez", "ground_truth": {"job_title": "Analytics Engineer", "department": "Engineering", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_003", "target_name": "Sophia Nguyen", "ground_truth": {"job_title": "Data Analyst", "department": "Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_004", "target_name": "Amir Johnson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_005", "target_name": "Luis Lee", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_006", "target_name": "Omar Silva", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_007", "target_name": "Priya Johnson", "ground_truth": {"job_title": "Business Analyst", "department": "Finance Analytics", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_008", "target_name": "Sophia Davis", "ground_truth": {"job_title": "Data Analyst", "department": "Business Intelligence", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_009", "target_name": "Amir Nair", "ground_truth": {"job_title": "Product Manager", "department": "Product Analytics", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_010", "target_name": "Amir Miller", "ground_truth": {"job_title": "Software Engineer", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_011", "target_name": "Ravi Anderson", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_012", "target_name": "Leo Kim", "ground_truth": {"job_title": "Data Analyst", "department": "People Operations", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_013", "target_name": "Sophia Wang", "ground_truth": {"job_title": "Analytics Engineer", "department": "Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_014", "target_name": "Noah Jackson", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_015", "target_name": "Alex Patel", "ground_truth": {"job_title": "Data Scientist", "department": "Operations", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_016", "target_name": "Diego Wang", "ground_truth": {"job_title": "Data Scientist", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_017", "target_name": "Marco Taylor", "ground_truth": {"job_title": "Business Analyst", "department": "Finance Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_018", "target_name": "Diego Brown", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_019", "target_name": "Alex Nair", "ground_truth": {"job_title": "Product Manager", "department": "Engineering", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_020", "target_name": "Hannah Brown", "ground_truth": {"job_title": "Product Manager", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_021", "target_name": "Leo Thomas", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_022", "target_name": "Elena Taylor", "ground_truth": {"job_title": "Software Engineer", "department": "Engineering", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_023", "target_name": "Ava Nair", "ground_truth": {"job_title": "Product Manager", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_024", "target_name": "Hannah Martinez", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_025", "target_name": "Ethan Nair", "ground_truth": {"job_title": "Product Manager", "department": "Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_026", "target_name": "Jasmine Patel", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Engineering", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_027", "target_name": "Luis Martinez", "ground_truth": {"job_title": "Data Scientist", "department": "Product Analytics", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_028", "target_name": "Ravi Garcia", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_029", "target_name": "Sara Davis", "ground_truth": {"job_title": "Data Scientist", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_030", "target_name": "Ravi Lee", "ground_truth": {"job_title": "Software Engineer", "department": "Product Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_031", "target_name": "Mei Kim", "ground_truth": {"job_title": "Business Analyst", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_032", "target_name": "Omar Lee", "ground_truth": {"job_title": "Data Scientist", "department": "Product Analytics", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_033", "target_name": "Leo Miller", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_034", "target_name": "Marco Moore", "ground_truth": {"job_title": "Business Analyst", "department": "Business Intelligence", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_035", "target_name": "Noah Johnson", "ground_truth": {"job_title": "Business Analyst", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_036", "target_name": "Ethan Martinez", "ground_truth": {"job_title": "Software Engineer", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_037", "target_name": "Mina Thomas", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_038", "target_name": "Ethan Lopez", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Operations", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_039", "target_name": "Amir Brown", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_040", "target_name": "Marco Anderson", "ground_truth": {"job_title": "Business Analyst", "department": "Marketing Analytics", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_041", "target_name": "Marco Davis", "ground_truth": {"job_title": "Data Scientist", "department": "Finance Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_042", "target_name": "Leo Chen", "ground_truth": {"job_title": "Analytics Engineer", "department": "Marketing Analytics", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_043", "target_name": "Amir Wang", "ground_truth": {"job_title": "Data Analyst", "department": "Engineering", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_044", "target_name": "Priya Lopez", "ground_truth": {"job_title": "Business Analyst", "department": "Operations", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_045", "target_name": "Leo Silva", "ground_truth": {"job_title": "Business Analyst", "department": "Operations", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_046", "target_name": "Jasmine Garcia", "ground_truth": {"job_title": "Analytics Engineer", "department": "Operations", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_047", "target_name": "Ravi Chen", "ground_truth": {"job_title": "Analytics Engineer", "department": "Product Analytics", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_048", "target_name": "Marco Lopez", "ground_truth": {"job_title": "Product Manager", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_049", "target_name": "Alex Patel", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_050", "target_name": "Sophia Nguyen", "ground_truth": {"job_title": "Data Scientist", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_051", "target_name": "Marco Patel", "ground_truth": {"job_title": "Data Scientist", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_052", "target_name": "Diego Thomas", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_053", "target_name": "Luis Davis", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_054", "target_name": "Priya Moore", "ground_truth": {"job_title": "Data Scientist", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_055", "target_name": "Hannah Davis", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_056", "target_name": "Noah Chen", "ground_truth": {"job_title": "Product Manager", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_057", "target_name": "Sophia Nguyen", "ground_truth": {"job_title": "Data Scientist", "department": "Operations", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_058", "target_name": "Ava Silva", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Engineering", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_059", "target_name": "Elena Brown", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Finance Analytics", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_060", "target_name": "Marco Nair", "ground_truth": {"job_title": "Data Scientist", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_061", "target_name": "Noah Lopez", "ground_truth": {"job_title": "Software Engineer", "department": "Product Analytics", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_062", "target_name": "Ava Kim", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_063", "target_name": "Diego Johnson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_064", "target_name": "Ethan Thomas", "ground_truth": {"job_title": "Analytics Engineer", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_065", "target_name": "Mina Lopez", "ground_truth": {"job_title": "Software Engineer", "department": "Engineering", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_066", "target_name": "Ava Nair", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_067", "target_name": "Ravi Kim", "ground_truth": {"job_title": "Data Scientist", "department": "Operations", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_068", "target_name": "Marco Johnson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Business Intelligence", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_069", "target_name": "Omar Wang", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_070", "target_name": "Diego Jackson", "ground_truth": {"job_title": "Data Analyst", "department": "People Operations", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_071", "target_name": "Ravi Johnson", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_072", "target_name": "Ethan Nguyen", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_073", "target_name": "Sophia Anderson", "ground_truth": {"job_title": "Data Scientist", "department": "Data Platform", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_074", "target_name": "Elena Taylor", "ground_truth": {"job_title": "Product Manager", "department": "People Operations", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_075", "target_name": "Ravi Silva", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_076", "target_name": "Sara Johnson", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_077", "target_name": "Marco Kim", "ground_truth": {"job_title": "Analytics Engineer", "department": "Marketing Analytics", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_078", "target_name": "Mei Johnson", "ground_truth": {"job_title": "Business Analyst", "department": "Operations", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_079", "target_name": "Alex Patel", "ground_truth": {"job_title": "Data Analyst", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_080", "target_name": "Amir Lopez", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_081", "target_name": "Alex Davis", "ground_truth": {"job_title": "Data Analyst", "department": "Engineering", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_082", "target_name": "Marco Martinez", "ground_truth": {"job_title": "Data Analyst", "department": "People Operations", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_083", "target_name": "Alex Thomas", "ground_truth": {"job_title": "Product Manager", "department": "Engineering", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_084", "target_name": "Ethan Lopez", "ground_truth": {"job_title": "Software Engineer", "department": "Finance Analytics", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_085", "target_name": "Alex Thomas", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_086", "target_name": "Sara Moore", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_087", "target_name": "Marco Patel", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_088", "target_name": "Mina Brown", "ground_truth": {"job_title": "Business Analyst", "department": "People Operations", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_089", "target_name": "Mei Lopez", "ground_truth": {"job_title": "Analytics Engineer", "department": "Operations", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_090", "target_name": "Mina Wang", "ground_truth": {"job_title": "Data Analyst", "department": "Operations", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_091", "target_name": "Ravi Brown", "ground_truth": {"job_title": "Data Scientist", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_092", "target_name": "Priya Miller", "ground_truth": {"job_title": "Business Analyst", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_093", "target_name": "Luis Davis", "ground_truth": {"job_title": "Software Engineer", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_094", "target_name": "Jasmine Johnson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Operations", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_095", "target_name": "Ava Moore", "ground_truth": {"job_title": "Business Analyst", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_096", "target_name": "Amir Garcia", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Engineering", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_097", "target_name": "Marco Nair", "ground_truth": {"job_title": "Data Scientist", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_begin_098", "target_name": "Elena Lee", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_begin_099", "target_name": "Sophia Davis", "ground_truth": {"job_title": "Data Analyst", "department": "Product Analytics", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_begin_100", "target_name": "Omar Anderson", "ground_truth": {"job_title": "Data Scientist", "department": "Engineering", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_001", "target_name": "Ava Kim", "ground_truth": {"job_title": "Data Analyst", "department": "Product Analytics", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_002", "target_name": "Priya Miller", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_003", "target_name": "Leo Nair", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Product Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_004", "target_name": "Alex Anderson", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_005", "target_name": "Ethan Miller", "ground_truth": {"job_title": "Data Analyst", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_006", "target_name": "Ravi Anderson", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_007", "target_name": "Sara Nair", "ground_truth": {"job_title": "Data Scientist", "department": "People Operations", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_008", "target_name": "Amir Anderson", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Data Platform", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_009", "target_name": "Sara Johnson", "ground_truth": {"job_title": "Analytics Engineer", "department": "Marketing Analytics", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_010", "target_name": "Elena Garcia", "ground_truth": {"job_title": "Software Engineer", "department": "People Operations", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_011", "target_name": "Jasmine Lee", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_012", "target_name": "Noah Wang", "ground_truth": {"job_title": "Analytics Engineer", "department": "Product Analytics", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_013", "target_name": "Diego Anderson", "ground_truth": {"job_title": "Data Analyst", "department": "Marketing Analytics", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_014", "target_name": "Priya Moore", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Engineering", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_015", "target_name": "Ethan Patel", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_016", "target_name": "Luis Moore", "ground_truth": {"job_title": "Software Engineer", "department": "Finance Analytics", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_017", "target_name": "Ravi Martinez", "ground_truth": {"job_title": "Analytics Engineer", "department": "Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_018", "target_name": "Omar Davis", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_019", "target_name": "Jasmine Lee", "ground_truth": {"job_title": "Software Engineer", "department": "Operations", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_020", "target_name": "Ava Anderson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_021", "target_name": "Leo Garcia", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Finance Analytics", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_022", "target_name": "Leo Anderson", "ground_truth": {"job_title": "Product Manager", "department": "Product Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_023", "target_name": "Mina Anderson", "ground_truth": {"job_title": "Analytics Engineer", "department": "Product Analytics", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_024", "target_name": "Nina Brown", "ground_truth": {"job_title": "Data Scientist", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_025", "target_name": "Noah Chen", "ground_truth": {"job_title": "Product Manager", "department": "Engineering", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_026", "target_name": "Alex Anderson", "ground_truth": {"job_title": "Analytics Engineer", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_027", "target_name": "Alex Chen", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_028", "target_name": "Nina Patel", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_029", "target_name": "Noah Jackson", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_030", "target_name": "Noah Lopez", "ground_truth": {"job_title": "Analytics Engineer", "department": "Engineering", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_031", "target_name": "Luis Brown", "ground_truth": {"job_title": "Product Manager", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_032", "target_name": "Mina Johnson", "ground_truth": {"job_title": "Analytics Engineer", "department": "Marketing Analytics", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_033", "target_name": "Ravi Brown", "ground_truth": {"job_title": "Software Engineer", "department": "People Operations", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_034", "target_name": "Diego Silva", "ground_truth": {"job_title": "Product Manager", "department": "Product Analytics", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_035", "target_name": "Mei Nguyen", "ground_truth": {"job_title": "Business Analyst", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_036", "target_name": "Elena Nair", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_037", "target_name": "Priya Patel", "ground_truth": {"job_title": "Product Manager", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_038", "target_name": "Jasmine Jackson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_039", "target_name": "Priya Davis", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_040", "target_name": "Alex Wang", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Operations", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_041", "target_name": "Omar Nair", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_042", "target_name": "Ava Lee", "ground_truth": {"job_title": "Business Analyst", "department": "Engineering", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_043", "target_name": "Mina Nguyen", "ground_truth": {"job_title": "Data Analyst", "department": "Engineering", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_044", "target_name": "Diego Garcia", "ground_truth": {"job_title": "Product Manager", "department": "Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_045", "target_name": "Noah Miller", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_046", "target_name": "Sara Patel", "ground_truth": {"job_title": "Product Manager", "department": "Engineering", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_047", "target_name": "Elena Lee", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_048", "target_name": "Ravi Nguyen", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_049", "target_name": "Noah Lee", "ground_truth": {"job_title": "Analytics Engineer", "department": "Finance Analytics", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_050", "target_name": "Marco Moore", "ground_truth": {"job_title": "Business Analyst", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_051", "target_name": "Leo Moore", "ground_truth": {"job_title": "Data Analyst", "department": "People Operations", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_052", "target_name": "Mina Davis", "ground_truth": {"job_title": "Product Manager", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_053", "target_name": "Ethan Miller", "ground_truth": {"job_title": "Business Analyst", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_054", "target_name": "Sara Davis", "ground_truth": {"job_title": "Data Analyst", "department": "Marketing Analytics", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_055", "target_name": "Ravi Nair", "ground_truth": {"job_title": "Data Scientist", "department": "Business Intelligence", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_056", "target_name": "Sophia Johnson", "ground_truth": {"job_title": "Data Scientist", "department": "Engineering", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_057", "target_name": "Elena Silva", "ground_truth": {"job_title": "Data Scientist", "department": "Finance Analytics", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_058", "target_name": "Nina Nguyen", "ground_truth": {"job_title": "Business Analyst", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_059", "target_name": "Nina Miller", "ground_truth": {"job_title": "Software Engineer", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_060", "target_name": "Ava Jackson", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_061", "target_name": "Nina Garcia", "ground_truth": {"job_title": "Data Analyst", "department": "Operations", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_062", "target_name": "Ethan Silva", "ground_truth": {"job_title": "Analytics Engineer", "department": "Product Analytics", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_063", "target_name": "Hannah Lopez", "ground_truth": {"job_title": "Business Analyst", "department": "Engineering", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_064", "target_name": "Alex Davis", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_065", "target_name": "Luis Martinez", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_066", "target_name": "Omar Chen", "ground_truth": {"job_title": "Product Manager", "department": "Operations", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_067", "target_name": "Sophia Martinez", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_068", "target_name": "Priya Nguyen", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Engineering", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_069", "target_name": "Mei Taylor", "ground_truth": {"job_title": "Business Analyst", "department": "People Operations", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_070", "target_name": "Nina Kim", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_071", "target_name": "Marco Nair", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_072", "target_name": "Sara Brown", "ground_truth": {"job_title": "Software Engineer", "department": "Finance Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_073", "target_name": "Diego Garcia", "ground_truth": {"job_title": "Software Engineer", "department": "Engineering", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_074", "target_name": "Mei Johnson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Product Analytics", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_075", "target_name": "Diego Nair", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_076", "target_name": "Marco Silva", "ground_truth": {"job_title": "Product Manager", "department": "People Operations", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_077", "target_name": "Elena Moore", "ground_truth": {"job_title": "Software Engineer", "department": "Product Analytics", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_078", "target_name": "Elena Miller", "ground_truth": {"job_title": "Software Engineer", "department": "Operations", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_079", "target_name": "Nina Silva", "ground_truth": {"job_title": "Data Analyst", "department": "Operations", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_080", "target_name": "Jasmine Miller", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_081", "target_name": "Nina Lee", "ground_truth": {"job_title": "Business Analyst", "department": "Operations", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_082", "target_name": "Hannah Lopez", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Operations", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_083", "target_name": "Marco Chen", "ground_truth": {"job_title": "Data Analyst", "department": "Operations", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_084", "target_name": "Sophia Moore", "ground_truth": {"job_title": "Data Analyst", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_085", "target_name": "Hannah Chen", "ground_truth": {"job_title": "Business Analyst", "department": "Engineering", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_086", "target_name": "Ravi Miller", "ground_truth": {"job_title": "Software Engineer", "department": "Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_087", "target_name": "Ethan Johnson", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_088", "target_name": "Amir Taylor", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_089", "target_name": "Sara Silva", "ground_truth": {"job_title": "Data Scientist", "department": "Operations", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_090", "target_name": "Marco Silva", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_091", "target_name": "Omar Nair", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_092", "target_name": "Jasmine Nair", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_093", "target_name": "Alex Patel", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_094", "target_name": "Noah Miller", "ground_truth": {"job_title": "Software Engineer", "department": "People Operations", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_095", "target_name": "Luis Wang", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_096", "target_name": "Amir Nair", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_097", "target_name": "Luis Nguyen", "ground_truth": {"job_title": "Data Analyst", "department": "Marketing Analytics", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_middle_098", "target_name": "Omar Davis", "ground_truth": {"job_title": "Data Analyst", "department": "Engineering", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_middle_099", "target_name": "Amir Garcia", "ground_truth": {"job_title": "Product Manager", "department": "Marketing Analytics", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_middle_100", "target_name": "Alex Anderson", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Operations", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_end_001", "target_name": "Elena Jackson", "ground_truth": {"job_title": "Business Analyst", "department": "People Operations", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_end_002", "target_name": "Luis Miller", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Engineering", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_end_003", "target_name": "Elena Lee", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_004", "target_name": "Hannah Davis", "ground_truth": {"job_title": "Data Analyst", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_end_005", "target_name": "Sara Nguyen", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_end_006", "target_name": "Ava Kim", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_end_007", "target_name": "Sara Martinez", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_end_008", "target_name": "Mina Nair", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Finance Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_009", "target_name": "Ava Johnson", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_end_010", "target_name": "Nina Silva", "ground_truth": {"job_title": "Product Manager", "department": "Operations", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_end_011", "target_name": "Omar Jackson", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_end_012", "target_name": "Omar Patel", "ground_truth": {"job_title": "Business Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_end_013", "target_name": "Priya Kim", "ground_truth": {"job_title": "Software Engineer", "department": "Product Analytics", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_end_014", "target_name": "Jasmine Nair", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_end_015", "target_name": "Jasmine Wang", "ground_truth": {"job_title": "Product Manager", "department": "Operations", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_end_016", "target_name": "Jasmine Thomas", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_end_017", "target_name": "Noah Johnson", "ground_truth": {"job_title": "Data Analyst", "department": "People Operations", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_end_018", "target_name": "Marco Johnson", "ground_truth": {"job_title": "Analytics Engineer", "department": "People Operations", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_end_019", "target_name": "Luis Moore", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Finance Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_020", "target_name": "Amir Anderson", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_end_021", "target_name": "Alex Thomas", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_end_022", "target_name": "Priya Anderson", "ground_truth": {"job_title": "Analytics Engineer", "department": "Operations", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_end_023", "target_name": "Luis Nguyen", "ground_truth": {"job_title": "Data Scientist", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_end_024", "target_name": "Ravi Lopez", "ground_truth": {"job_title": "Product Manager", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_end_025", "target_name": "Mina Martinez", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_end_026", "target_name": "Noah Martinez", "ground_truth": {"job_title": "Software Engineer", "department": "Product Analytics", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_end_027", "target_name": "Mina Nair", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_end_028", "target_name": "Hannah Taylor", "ground_truth": {"job_title": "Software Engineer", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_end_029", "target_name": "Mei Wang", "ground_truth": {"job_title": "Software Engineer", "department": "Operations", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_end_030", "target_name": "Marco Nguyen", "ground_truth": {"job_title": "Business Analyst", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_end_031", "target_name": "Diego Garcia", "ground_truth": {"job_title": "Data Scientist", "department": "People Operations", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_end_032", "target_name": "Diego Brown", "ground_truth": {"job_title": "Product Manager", "department": "People Operations", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_end_033", "target_name": "Alex Nguyen", "ground_truth": {"job_title": "Product Manager", "department": "People Operations", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_end_034", "target_name": "Mei Brown", "ground_truth": {"job_title": "Software Engineer", "department": "People Operations", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_end_035", "target_name": "Luis Thomas", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Product Analytics", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_end_036", "target_name": "Amir Davis", "ground_truth": {"job_title": "Senior Data Analyst", "department": "People Operations", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_end_037", "target_name": "Ava Nair", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_end_038", "target_name": "Ravi Anderson", "ground_truth": {"job_title": "Data Analyst", "department": "Marketing Analytics", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_end_039", "target_name": "Ethan Chen", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_040", "target_name": "Elena Wang", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_041", "target_name": "Leo Lopez", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_end_042", "target_name": "Mina Patel", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Engineering", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_end_043", "target_name": "Marco Anderson", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_end_044", "target_name": "Omar Nguyen", "ground_truth": {"job_title": "Product Manager", "department": "Product Analytics", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_end_045", "target_name": "Alex Martinez", "ground_truth": {"job_title": "Business Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_end_046", "target_name": "Ethan Chen", "ground_truth": {"job_title": "Data Scientist", "department": "People Operations", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_047", "target_name": "Alex Nguyen", "ground_truth": {"job_title": "Analytics Engineer", "department": "People Operations", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_048", "target_name": "Sara Lopez", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_049", "target_name": "Diego Anderson", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Finance Analytics", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_050", "target_name": "Ava Chen", "ground_truth": {"job_title": "Analytics Engineer", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_051", "target_name": "Mei Moore", "ground_truth": {"job_title": "Product Manager", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_052", "target_name": "Leo Wang", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 3, "weekly_hours": 35}}
+{"doc_id": "about_us_end_053", "target_name": "Luis Taylor", "ground_truth": {"job_title": "Data Scientist", "department": "People Operations", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_end_054", "target_name": "Luis Brown", "ground_truth": {"job_title": "Software Engineer", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_055", "target_name": "Nina Miller", "ground_truth": {"job_title": "Business Analyst", "department": "Operations", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_end_056", "target_name": "Mina Patel", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_057", "target_name": "Marco Brown", "ground_truth": {"job_title": "Data Analyst", "department": "Marketing Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_058", "target_name": "Sophia Nguyen", "ground_truth": {"job_title": "Data Scientist", "department": "Engineering", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_end_059", "target_name": "Omar Lopez", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Engineering", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_060", "target_name": "Mina Chen", "ground_truth": {"job_title": "Analytics Engineer", "department": "Marketing Analytics", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_end_061", "target_name": "Mei Garcia", "ground_truth": {"job_title": "Business Analyst", "department": "Finance Analytics", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_end_062", "target_name": "Priya Brown", "ground_truth": {"job_title": "Business Analyst", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_063", "target_name": "Amir Jackson", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_end_064", "target_name": "Mina Patel", "ground_truth": {"job_title": "Product Manager", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 45}}
+{"doc_id": "about_us_end_065", "target_name": "Ethan Lopez", "ground_truth": {"job_title": "Data Analyst", "department": "Engineering", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_066", "target_name": "Diego Kim", "ground_truth": {"job_title": "Analytics Engineer", "department": "Business Intelligence", "years_at_company": 6, "weekly_hours": 40}}
+{"doc_id": "about_us_end_067", "target_name": "Ava Wang", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Operations", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_end_068", "target_name": "Marco Johnson", "ground_truth": {"job_title": "Business Analyst", "department": "People Operations", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_069", "target_name": "Nina Davis", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Finance Analytics", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_end_070", "target_name": "Marco Lopez", "ground_truth": {"job_title": "Senior Data Scientist", "department": "Business Intelligence", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_end_071", "target_name": "Noah Chen", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_end_072", "target_name": "Luis Garcia", "ground_truth": {"job_title": "Business Analyst", "department": "Operations", "years_at_company": 4, "weekly_hours": 35}}
+{"doc_id": "about_us_end_073", "target_name": "Nina Garcia", "ground_truth": {"job_title": "Data Analyst", "department": "Operations", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_end_074", "target_name": "Omar Kim", "ground_truth": {"job_title": "Analytics Engineer", "department": "Data Platform", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_end_075", "target_name": "Ava Patel", "ground_truth": {"job_title": "Product Manager", "department": "Data Platform", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_076", "target_name": "Marco Silva", "ground_truth": {"job_title": "Data Scientist", "department": "Engineering", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_077", "target_name": "Hannah Kim", "ground_truth": {"job_title": "Data Analyst", "department": "Data Platform", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_078", "target_name": "Hannah Kim", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Finance Analytics", "years_at_company": 3, "weekly_hours": 45}}
+{"doc_id": "about_us_end_079", "target_name": "Nina Brown", "ground_truth": {"job_title": "Senior Data Scientist", "department": "People Operations", "years_at_company": 6, "weekly_hours": 35}}
+{"doc_id": "about_us_end_080", "target_name": "Ravi Wang", "ground_truth": {"job_title": "Data Scientist", "department": "Product Analytics", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_081", "target_name": "Omar Wang", "ground_truth": {"job_title": "Business Analyst", "department": "Business Intelligence", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_end_082", "target_name": "Ethan Lee", "ground_truth": {"job_title": "Product Manager", "department": "Marketing Analytics", "years_at_company": 3, "weekly_hours": 40}}
+{"doc_id": "about_us_end_083", "target_name": "Noah Patel", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_end_084", "target_name": "Nina Lee", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_085", "target_name": "Mina Patel", "ground_truth": {"job_title": "Data Scientist", "department": "Finance Analytics", "years_at_company": 5, "weekly_hours": 45}}
+{"doc_id": "about_us_end_086", "target_name": "Priya Jackson", "ground_truth": {"job_title": "Software Engineer", "department": "Product Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_087", "target_name": "Omar Garcia", "ground_truth": {"job_title": "Product Manager", "department": "Finance Analytics", "years_at_company": 4, "weekly_hours": 45}}
+{"doc_id": "about_us_end_088", "target_name": "Noah Silva", "ground_truth": {"job_title": "Data Analyst", "department": "People Operations", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_end_089", "target_name": "Mei Johnson", "ground_truth": {"job_title": "Data Analyst", "department": "Engineering", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_end_090", "target_name": "Nina Lopez", "ground_truth": {"job_title": "Business Analyst", "department": "Operations", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_end_091", "target_name": "Omar Garcia", "ground_truth": {"job_title": "Analytics Engineer", "department": "Finance Analytics", "years_at_company": 7, "weekly_hours": 40}}
+{"doc_id": "about_us_end_092", "target_name": "Ethan Chen", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Finance Analytics", "years_at_company": 7, "weekly_hours": 45}}
+{"doc_id": "about_us_end_093", "target_name": "Ravi Davis", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Marketing Analytics", "years_at_company": 5, "weekly_hours": 35}}
+{"doc_id": "about_us_end_094", "target_name": "Sara Wang", "ground_truth": {"job_title": "Analytics Engineer", "department": "Engineering", "years_at_company": 7, "weekly_hours": 35}}
+{"doc_id": "about_us_end_095", "target_name": "Marco Wang", "ground_truth": {"job_title": "Data Scientist", "department": "Operations", "years_at_company": 4, "weekly_hours": 40}}
+{"doc_id": "about_us_end_096", "target_name": "Elena Nguyen", "ground_truth": {"job_title": "Senior Data Analyst", "department": "Business Intelligence", "years_at_company": 2, "weekly_hours": 35}}
+{"doc_id": "about_us_end_097", "target_name": "Nina Martinez", "ground_truth": {"job_title": "Business Analyst", "department": "Product Analytics", "years_at_company": 2, "weekly_hours": 45}}
+{"doc_id": "about_us_end_098", "target_name": "Nina Martinez", "ground_truth": {"job_title": "Software Engineer", "department": "Marketing Analytics", "years_at_company": 5, "weekly_hours": 40}}
+{"doc_id": "about_us_end_099", "target_name": "Sophia Lopez", "ground_truth": {"job_title": "Data Analyst", "department": "Product Analytics", "years_at_company": 2, "weekly_hours": 40}}
+{"doc_id": "about_us_end_100", "target_name": "Mina Miller", "ground_truth": {"job_title": "Data Analyst", "department": "Business Intelligence", "years_at_company": 4, "weekly_hours": 35}}
