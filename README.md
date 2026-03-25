@@ -18,8 +18,6 @@ The experiment is intentionally small-scale and exploratory. Its purpose is not 
 
 To ensure realism in document structure and language, the synthetic documents are loosely inspired by real-world company documentation patterns. Public company document text from Kaggle was used as conceptual scaffolding:
 
-Company Documents Dataset:  
-https://www.kaggle.com/datasets/ayoubcherguelaine/company-documents-dataset
 
 No proprietary or personally identifiable information is used. All employee names and details are procedurally generated.
 
