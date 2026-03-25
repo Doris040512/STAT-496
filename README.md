@@ -1,31 +1,56 @@
-# Lost in the Middle: Context Retrieval Accuracy
+# Lost in the Middle: Context Retrieval Accuracy in Large Language Models
 
-This project presents a small-scale exploratory experiment investigating whether a large language model’s ability to retrieve factual information depends on where that information appears within a long context.
+STAT 496 Final Project  
+University of Washington  
+Authors: Yijing Chen, Shuozishan Wang, Chenyi Wang  
 
-Specifically, we test whether factual retrieval accuracy degrades when target information is placed in the middle of a document, compared to the beginning or the end.
+---
 
-## Experiment Overview
+## Overview
 
-In this first-pass experiment, we generate short synthetic company-style documents describing multiple employees. Each document contains one target employee whose information appears at a controlled position (start, middle, or end). The model is prompted to extract structured information about the target employee in JSON format.
+Large language models are often used to extract structured information from long documents.  
+However, recent research suggests that models may not use all parts of a long context equally well.  
+In particular, retrieval performance may decrease when relevant information appears in the middle of the input sequence.
 
-The experiment is intentionally small-scale and exploratory. Its purpose is not to produce definitive statistical results, but to:
+This project studies whether structured extraction accuracy depends on the position of the relevant information inside a document.
 
-- Validate the feasibility of the experimental setup  
-- Confirm that the task produces meaningful variation in model behavior  
-- Motivate future large-scale automation and statistical analysis  
+We design a controlled experiment where the same type of information appears at different positions:
 
-## Data Source and Scaffolding
+- Beginning  
+- Middle  
+- End  
 
-To ensure realism in document structure and language, the synthetic documents are loosely inspired by real-world company documentation patterns. Public company document text from Kaggle was used as conceptual scaffolding:
+We then measure whether extraction accuracy changes across positions.
 
+This experiment is inspired by the **Lost in the Middle** phenomenon in long-context LLM research.
 
-No proprietary or personally identifiable information is used. All employee names and details are procedurally generated.
+---
 
-## Repository Contents
+## Research Question
 
-- Synthetic document generator
-- Python scripts to run prompts through a language model
-- Saved model outputs from pilot runs
-- Analysis code to evaluate retrieval accuracy and result variability
+Does the accuracy of structured extraction decrease when the target information appears in the middle of a long document rather than at the beginning or end?
 
-This repository demonstrates a complete experimental pipeline that can be scaled to larger datasets and more rigorous statistical testing in future work.
+---
+
+## Task Description
+
+Each document describes multiple fictional employees.
+
+The model must extract information about one target employee:
+
+- job_title  
+- department  
+- years_at_company  
+- weekly_hours  
+
+The model must return valid JSON only.
+
+Example output:
+
+```json
+{
+  "job_title": "Data Analyst",
+  "department": "Finance Analytics",
+  "years_at_company": 3,
+  "weekly_hours": 40
+}
